@@ -1,0 +1,1662 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+
+  "brands": {
+    "tata": [
+      {
+        "name": "Tata Car 1",
+        "model": "TATA-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/tata_car_1.jpg"
+      },
+      {
+        "name": "Tata Car 2",
+        "model": "TATA-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/tata_car_2.jpg"
+      },
+      {
+        "name": "Tata Car 3",
+        "model": "TATA-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/tata_car_3.jpg"
+      },
+      {
+        "name": "Tata Car 4",
+        "model": "TATA-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/tata_car_4.jpg"
+      },
+      {
+        "name": "Tata Car 5",
+        "model": "TATA-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/tata_car_5.jpg"
+      },
+      {
+        "name": "Tata Car 6",
+        "model": "TATA-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/tata_car_6.jpg"
+      },
+      {
+        "name": "Tata Car 7",
+        "model": "TATA-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/tata_car_7.jpg"
+      },
+      {
+        "name": "Tata Car 8",
+        "model": "TATA-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/tata_car_8.jpg"
+      },
+      {
+        "name": "Tata Car 9",
+        "model": "TATA-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/tata_car_9.jpg"
+      },
+      {
+        "name": "Tata Car 10",
+        "model": "TATA-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/tata_car_10.jpg"
+      },
+      {
+        "name": "Tata Car 11",
+        "model": "TATA-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/tata_car_11.jpg"
+      },
+      {
+        "name": "Tata Car 12",
+        "model": "TATA-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/tata_car_12.jpg"
+      },
+      {
+        "name": "Tata Car 13",
+        "model": "TATA-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/tata_car_13.jpg"
+      },
+      {
+        "name": "Tata Car 14",
+        "model": "TATA-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/tata_car_14.jpg"
+      },
+      {
+        "name": "Tata Car 15",
+        "model": "TATA-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/tata_car_15.jpg"
+      },
+      {
+        "name": "Tata Car 16",
+        "model": "TATA-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/tata_car_16.jpg"
+      },
+      {
+        "name": "Tata Car 17",
+        "model": "TATA-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/tata_car_17.jpg"
+      },
+      {
+        "name": "Tata Car 18",
+        "model": "TATA-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/tata_car_18.jpg"
+      },
+      {
+        "name": "Tata Car 19",
+        "model": "TATA-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/tata_car_19.jpg"
+      },
+      {
+        "name": "Tata Car 20",
+        "model": "TATA-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/tata_car_20.jpg"
+      }
+    ],
+    "mahindra": [
+      {
+        "name": "Mahindra Car 1",
+        "model": "MAHINDRA-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/mahindra_car_1.jpg"
+      },
+      {
+        "name": "Mahindra Car 2",
+        "model": "MAHINDRA-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/mahindra_car_2.jpg"
+      },
+      {
+        "name": "Mahindra Car 3",
+        "model": "MAHINDRA-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/mahindra_car_3.jpg"
+      },
+      {
+        "name": "Mahindra Car 4",
+        "model": "MAHINDRA-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/mahindra_car_4.jpg"
+      },
+      {
+        "name": "Mahindra Car 5",
+        "model": "MAHINDRA-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/mahindra_car_5.jpg"
+      },
+      {
+        "name": "Mahindra Car 6",
+        "model": "MAHINDRA-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/mahindra_car_6.jpg"
+      },
+      {
+        "name": "Mahindra Car 7",
+        "model": "MAHINDRA-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/mahindra_car_7.jpg"
+      },
+      {
+        "name": "Mahindra Car 8",
+        "model": "MAHINDRA-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/mahindra_car_8.jpg"
+      },
+      {
+        "name": "Mahindra Car 9",
+        "model": "MAHINDRA-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/mahindra_car_9.jpg"
+      },
+      {
+        "name": "Mahindra Car 10",
+        "model": "MAHINDRA-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/mahindra_car_10.jpg"
+      },
+      {
+        "name": "Mahindra Car 11",
+        "model": "MAHINDRA-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/mahindra_car_11.jpg"
+      },
+      {
+        "name": "Mahindra Car 12",
+        "model": "MAHINDRA-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/mahindra_car_12.jpg"
+      },
+      {
+        "name": "Mahindra Car 13",
+        "model": "MAHINDRA-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/mahindra_car_13.jpg"
+      },
+      {
+        "name": "Mahindra Car 14",
+        "model": "MAHINDRA-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/mahindra_car_14.jpg"
+      },
+      {
+        "name": "Mahindra Car 15",
+        "model": "MAHINDRA-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/mahindra_car_15.jpg"
+      },
+      {
+        "name": "Mahindra Car 16",
+        "model": "MAHINDRA-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/mahindra_car_16.jpg"
+      },
+      {
+        "name": "Mahindra Car 17",
+        "model": "MAHINDRA-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/mahindra_car_17.jpg"
+      },
+      {
+        "name": "Mahindra Car 18",
+        "model": "MAHINDRA-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/mahindra_car_18.jpg"
+      },
+      {
+        "name": "Mahindra Car 19",
+        "model": "MAHINDRA-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/mahindra_car_19.jpg"
+      },
+      {
+        "name": "Mahindra Car 20",
+        "model": "MAHINDRA-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/mahindra_car_20.jpg"
+      }
+    ],
+    
+    "hyundai": [
+      {
+        "name": "Hyundai Car 1",
+        "model": "HYUNDAI-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/hyundai_car_1.jpg"
+      },
+      {
+        "name": "Hyundai Car 2",
+        "model": "HYUNDAI-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/hyundai_car_2.jpg"
+      },
+      {
+        "name": "Hyundai Car 3",
+        "model": "HYUNDAI-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/hyundai_car_3.jpg"
+      },
+      {
+        "name": "Hyundai Car 4",
+        "model": "HYUNDAI-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/hyundai_car_4.jpg"
+      },
+      {
+        "name": "Hyundai Car 5",
+        "model": "HYUNDAI-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/hyundai_car_5.jpg"
+      },
+      {
+        "name": "Hyundai Car 6",
+        "model": "HYUNDAI-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/hyundai_car_6.jpg"
+      },
+      {
+        "name": "Hyundai Car 7",
+        "model": "HYUNDAI-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/hyundai_car_7.jpg"
+      },
+      {
+        "name": "Hyundai Car 8",
+        "model": "HYUNDAI-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/hyundai_car_8.jpg"
+      },
+      {
+        "name": "Hyundai Car 9",
+        "model": "HYUNDAI-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/hyundai_car_9.jpg"
+      },
+      {
+        "name": "Hyundai Car 10",
+        "model": "HYUNDAI-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/hyundai_car_10.jpg"
+      },
+      {
+        "name": "Hyundai Car 11",
+        "model": "HYUNDAI-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/hyundai_car_11.jpg"
+      },
+      {
+        "name": "Hyundai Car 12",
+        "model": "HYUNDAI-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/hyundai_car_12.jpg"
+      },
+      {
+        "name": "Hyundai Car 13",
+        "model": "HYUNDAI-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/hyundai_car_13.jpg"
+      },
+      {
+        "name": "Hyundai Car 14",
+        "model": "HYUNDAI-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/hyundai_car_14.jpg"
+      },
+      {
+        "name": "Hyundai Car 15",
+        "model": "HYUNDAI-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/hyundai_car_15.jpg"
+      },
+      {
+        "name": "Hyundai Car 16",
+        "model": "HYUNDAI-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/hyundai_car_16.jpg"
+      },
+      {
+        "name": "Hyundai Car 17",
+        "model": "HYUNDAI-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/hyundai_car_17.jpg"
+      },
+      {
+        "name": "Hyundai Car 18",
+        "model": "HYUNDAI-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/hyundai_car_18.jpg"
+      },
+      {
+        "name": "Hyundai Car 19",
+        "model": "HYUNDAI-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/hyundai_car_19.jpg"
+      },
+      {
+        "name": "Hyundai Car 20",
+        "model": "HYUNDAI-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/hyundai_car_20.jpg"
+      }
+    ],
+    "honda": [
+  {
+    "name": "Honda Car 1",
+    "model": "HON-101",
+    "price": "₹7 lakh",
+    "image": "https://example.com/images/honda_car_1.jpg"
+  },
+  {
+    "name": "Honda Car 2",
+    "model": "HON-102",
+    "price": "₹7.5 lakh",
+    "image": "https://example.com/images/honda_car_2.jpg"
+  },
+  {
+    "name": "Honda Car 3",
+    "model": "HON-103",
+    "price": "₹8 lakh",
+    "image": "https://example.com/images/honda_car_3.jpg"
+  },
+  {
+    "name": "Honda Car 4",
+    "model": "HON-104",
+    "price": "₹8.5 lakh",
+    "image": "https://example.com/images/honda_car_4.jpg"
+  },
+  {
+    "name": "Honda Car 5",
+    "model": "HON-105",
+    "price": "₹9 lakh",
+    "image": "https://example.com/images/honda_car_5.jpg"
+  },
+  {
+    "name": "Honda Car 6",
+    "model": "HON-106",
+    "price": "₹9.5 lakh",
+    "image": "https://example.com/images/honda_car_6.jpg"
+  },
+  {
+    "name": "Honda Car 7",
+    "model": "HON-107",
+    "price": "₹10 lakh",
+    "image": "https://example.com/images/honda_car_7.jpg"
+  },
+  {
+    "name": "Honda Car 8",
+    "model": "HON-108",
+    "price": "₹10.5 lakh",
+    "image": "https://example.com/images/honda_car_8.jpg"
+  },
+  {
+    "name": "Honda Car 9",
+    "model": "HON-109",
+    "price": "₹11 lakh",
+    "image": "https://example.com/images/honda_car_9.jpg"
+  },
+  {
+    "name": "Honda Car 10",
+    "model": "HON-110",
+    "price": "₹11.5 lakh",
+    "image": "https://example.com/images/honda_car_10.jpg"
+  },
+  {
+    "name": "Honda Car 11",
+    "model": "HON-111",
+    "price": "₹12 lakh",
+    "image": "https://example.com/images/honda_car_11.jpg"
+  },
+  {
+    "name": "Honda Car 12",
+    "model": "HON-112",
+    "price": "₹12.5 lakh",
+    "image": "https://example.com/images/honda_car_12.jpg"
+  }
+]
+,
+"renault": [
+  {
+    "name": "Renault Car 1",
+    "model": "REN-101",
+    "price": "₹6 lakh",
+    "image": "https://example.com/images/renault_car_1.jpg"
+  },
+  {
+    "name": "Renault Car 2",
+    "model": "REN-102",
+    "price": "₹6.5 lakh",
+    "image": "https://example.com/images/renault_car_2.jpg"
+  },
+  {
+    "name": "Renault Car 3",
+    "model": "REN-103",
+    "price": "₹7 lakh",
+    "image": "https://example.com/images/renault_car_3.jpg"
+  },
+  {
+    "name": "Renault Car 4",
+    "model": "REN-104",
+    "price": "₹7.5 lakh",
+    "image": "https://example.com/images/renault_car_4.jpg"
+  },
+  {
+    "name": "Renault Car 5",
+    "model": "REN-105",
+    "price": "₹8 lakh",
+    "image": "https://example.com/images/renault_car_5.jpg"
+  },
+  {
+    "name": "Renault Car 6",
+    "model": "REN-106",
+    "price": "₹8.5 lakh",
+    "image": "https://example.com/images/renault_car_6.jpg"
+  },
+  {
+    "name": "Renault Car 7",
+    "model": "REN-107",
+    "price": "₹9 lakh",
+    "image": "https://example.com/images/renault_car_7.jpg"
+  },
+  {
+    "name": "Renault Car 8",
+    "model": "REN-108",
+    "price": "₹9.5 lakh",
+    "image": "https://example.com/images/renault_car_8.jpg"
+  },
+  {
+    "name": "Renault Car 9",
+    "model": "REN-109",
+    "price": "₹10 lakh",
+    "image": "https://example.com/images/renault_car_9.jpg"
+  },
+  {
+    "name": "Renault Car 10",
+    "model": "REN-110",
+    "price": "₹10.5 lakh",
+    "image": "https://example.com/images/renault_car_10.jpg"
+  },
+  {
+    "name": "Renault Car 11",
+    "model": "REN-111",
+    "price": "₹11 lakh",
+    "image": "https://example.com/images/renault_car_11.jpg"
+  },
+  {
+    "name": "Renault Car 12",
+    "model": "REN-112",
+    "price": "₹11.5 lakh",
+    "image": "https://example.com/images/renault_car_12.jpg"
+  }
+]
+,
+"nissan": [
+  {"name": "Nissan Car 1","model": "NIS-101","price": "₹7 lakh","image": "https://example.com/images/nissan_car_1.jpg"},
+  {"name": "Nissan Car 2","model": "NIS-102","price": "₹7.5 lakh","image": "https://example.com/images/nissan_car_2.jpg"},
+  {"name": "Nissan Car 3","model": "NIS-103","price": "₹8 lakh","image": "https://example.com/images/nissan_car_3.jpg"},
+  {"name": "Nissan Car 4","model": "NIS-104","price": "₹8.5 lakh","image": "https://example.com/images/nissan_car_4.jpg"},
+  {"name": "Nissan Car 5","model": "NIS-105","price": "₹9 lakh","image": "https://example.com/images/nissan_car_5.jpg"},
+  {"name": "Nissan Car 6","model": "NIS-106","price": "₹9.5 lakh","image": "https://example.com/images/nissan_car_6.jpg"},
+  {"name": "Nissan Car 7","model": "NIS-107","price": "₹10 lakh","image": "https://example.com/images/nissan_car_7.jpg"},
+  {"name": "Nissan Car 8","model": "NIS-108","price": "₹10.5 lakh","image": "https://example.com/images/nissan_car_8.jpg"},
+  {"name": "Nissan Car 9","model": "NIS-109","price": "₹11 lakh","image": "https://example.com/images/nissan_car_9.jpg"},
+  {"name": "Nissan Car 10","model": "NIS-110","price": "₹11.5 lakh","image": "https://example.com/images/nissan_car_10.jpg"},
+  {"name": "Nissan Car 11","model": "NIS-111","price": "₹12 lakh","image": "https://example.com/images/nissan_car_11.jpg"},
+  {"name": "Nissan Car 12","model": "NIS-112","price": "₹12.5 lakh","image": "https://example.com/images/nissan_car_12.jpg"}
+],
+
+"mg": [
+  {"name": "MG Car 1","model": "MG-101","price": "₹9 lakh","image": "https://example.com/images/mg_car_1.jpg"},
+  {"name": "MG Car 2","model": "MG-102","price": "₹9.5 lakh","image": "https://example.com/images/mg_car_2.jpg"},
+  {"name": "MG Car 3","model": "MG-103","price": "₹10 lakh","image": "https://example.com/images/mg_car_3.jpg"},
+  {"name": "MG Car 4","model": "MG-104","price": "₹10.5 lakh","image": "https://example.com/images/mg_car_4.jpg"},
+  {"name": "MG Car 5","model": "MG-105","price": "₹11 lakh","image": "https://example.com/images/mg_car_5.jpg"},
+  {"name": "MG Car 6","model": "MG-106","price": "₹11.5 lakh","image": "https://example.com/images/mg_car_6.jpg"},
+  {"name": "MG Car 7","model": "MG-107","price": "₹12 lakh","image": "https://example.com/images/mg_car_7.jpg"},
+  {"name": "MG Car 8","model": "MG-108","price": "₹12.5 lakh","image": "https://example.com/images/mg_car_8.jpg"},
+  {"name": "MG Car 9","model": "MG-109","price": "₹13 lakh","image": "https://example.com/images/mg_car_9.jpg"},
+  {"name": "MG Car 10","model": "MG-110","price": "₹13.5 lakh","image": "https://example.com/images/mg_car_10.jpg"},
+  {"name": "MG Car 11","model": "MG-111","price": "₹14 lakh","image": "https://example.com/images/mg_car_11.jpg"},
+  {"name": "MG Car 12","model": "MG-112","price": "₹14.5 lakh","image": "https://example.com/images/mg_car_12.jpg"}
+],
+
+"jeep": [
+  {"name": "Jeep Car 1","model": "JEEP-101","price": "₹15 lakh","image": "https://example.com/images/jeep_car_1.jpg"},
+  {"name": "Jeep Car 2","model": "JEEP-102","price": "₹15.5 lakh","image": "https://example.com/images/jeep_car_2.jpg"},
+  {"name": "Jeep Car 3","model": "JEEP-103","price": "₹16 lakh","image": "https://example.com/images/jeep_car_3.jpg"},
+  {"name": "Jeep Car 4","model": "JEEP-104","price": "₹16.5 lakh","image": "https://example.com/images/jeep_car_4.jpg"},
+  {"name": "Jeep Car 5","model": "JEEP-105","price": "₹17 lakh","image": "https://example.com/images/jeep_car_5.jpg"},
+  {"name": "Jeep Car 6","model": "JEEP-106","price": "₹17.5 lakh","image": "https://example.com/images/jeep_car_6.jpg"},
+  {"name": "Jeep Car 7","model": "JEEP-107","price": "₹18 lakh","image": "https://example.com/images/jeep_car_7.jpg"},
+  {"name": "Jeep Car 8","model": "JEEP-108","price": "₹18.5 lakh","image": "https://example.com/images/jeep_car_8.jpg"},
+  {"name": "Jeep Car 9","model": "JEEP-109","price": "₹19 lakh","image": "https://example.com/images/jeep_car_9.jpg"},
+  {"name": "Jeep Car 10","model": "JEEP-110","price": "₹19.5 lakh","image": "https://example.com/images/jeep_car_10.jpg"},
+  {"name": "Jeep Car 11","model": "JEEP-111","price": "₹20 lakh","image": "https://example.com/images/jeep_car_11.jpg"},
+  {"name": "Jeep Car 12","model": "JEEP-112","price": "₹20.5 lakh","image": "https://example.com/images/jeep_car_12.jpg"}
+]
+,
+"mercedesbenz": [
+  {"name": "Mercedes-Benz Car 1","model": "MB-101","price": "₹65 lakh","image": "https://example.com/images/mercedesbenz_car_1.jpg"},
+  {"name": "Mercedes-Benz Car 2","model": "MB-102","price": "₹70 lakh","image": "https://example.com/images/mercedesbenz_car_2.jpg"},
+  {"name": "Mercedes-Benz Car 3","model": "MB-103","price": "₹75 lakh","image": "https://example.com/images/mercedesbenz_car_3.jpg"},
+  {"name": "Mercedes-Benz Car 4","model": "MB-104","price": "₹80 lakh","image": "https://example.com/images/mercedesbenz_car_4.jpg"},
+  {"name": "Mercedes-Benz Car 5","model": "MB-105","price": "₹85 lakh","image": "https://example.com/images/mercedesbenz_car_5.jpg"},
+  {"name": "Mercedes-Benz Car 6","model": "MB-106","price": "₹90 lakh","image": "https://example.com/images/mercedesbenz_car_6.jpg"},
+  {"name": "Mercedes-Benz Car 7","model": "MB-107","price": "₹95 lakh","image": "https://example.com/images/mercedesbenz_car_7.jpg"},
+  {"name": "Mercedes-Benz Car 8","model": "MB-108","price": "₹1 crore","image": "https://example.com/images/mercedesbenz_car_8.jpg"},
+  {"name": "Mercedes-Benz Car 9","model": "MB-109","price": "₹1.1 crore","image": "https://example.com/images/mercedesbenz_car_9.jpg"},
+  {"name": "Mercedes-Benz Car 10","model": "MB-110","price": "₹1.2 crore","image": "https://example.com/images/mercedesbenz_car_10.jpg"},
+  {"name": "Mercedes-Benz Car 11","model": "MB-111","price": "₹1.3 crore","image": "https://example.com/images/mercedesbenz_car_11.jpg"},
+  {"name": "Mercedes-Benz Car 12","model": "MB-112","price": "₹1.4 crore","image": "https://example.com/images/mercedesbenz_car_12.jpg"}
+],
+
+"volvo": [
+  {"name": "Volvo Car 1","model": "VOL-101","price": "₹45 lakh","image": "https://example.com/images/volvo_car_1.jpg"},
+  {"name": "Volvo Car 2","model": "VOL-102","price": "₹47 lakh","image": "https://example.com/images/volvo_car_2.jpg"},
+  {"name": "Volvo Car 3","model": "VOL-103","price": "₹50 lakh","image": "https://example.com/images/volvo_car_3.jpg"},
+  {"name": "Volvo Car 4","model": "VOL-104","price": "₹52 lakh","image": "https://example.com/images/volvo_car_4.jpg"},
+  {"name": "Volvo Car 5","model": "VOL-105","price": "₹55 lakh","image": "https://example.com/images/volvo_car_5.jpg"},
+  {"name": "Volvo Car 6","model": "VOL-106","price": "₹57 lakh","image": "https://example.com/images/volvo_car_6.jpg"},
+  {"name": "Volvo Car 7","model": "VOL-107","price": "₹60 lakh","image": "https://example.com/images/volvo_car_7.jpg"},
+  {"name": "Volvo Car 8","model": "VOL-108","price": "₹62 lakh","image": "https://example.com/images/volvo_car_8.jpg"},
+  {"name": "Volvo Car 9","model": "VOL-109","price": "₹65 lakh","image": "https://example.com/images/volvo_car_9.jpg"},
+  {"name": "Volvo Car 10","model": "VOL-110","price": "₹67 lakh","image": "https://example.com/images/volvo_car_10.jpg"},
+  {"name": "Volvo Car 11","model": "VOL-111","price": "₹70 lakh","image": "https://example.com/images/volvo_car_11.jpg"},
+  {"name": "Volvo Car 12","model": "VOL-112","price": "₹72 lakh","image": "https://example.com/images/volvo_car_12.jpg"}
+],
+
+"lexus": [
+  {"name": "Lexus Car 1","model": "LEX-101","price": "₹80 lakh","image": "https://example.com/images/lexus_car_1.jpg"},
+  {"name": "Lexus Car 2","model": "LEX-102","price": "₹85 lakh","image": "https://example.com/images/lexus_car_2.jpg"},
+  {"name": "Lexus Car 3","model": "LEX-103","price": "₹90 lakh","image": "https://example.com/images/lexus_car_3.jpg"},
+  {"name": "Lexus Car 4","model": "LEX-104","price": "₹95 lakh","image": "https://example.com/images/lexus_car_4.jpg"},
+  {"name": "Lexus Car 5","model": "LEX-105","price": "₹1 crore","image": "https://example.com/images/lexus_car_5.jpg"},
+  {"name": "Lexus Car 6","model": "LEX-106","price": "₹1.05 crore","image": "https://example.com/images/lexus_car_6.jpg"},
+  {"name": "Lexus Car 7","model": "LEX-107","price": "₹1.1 crore","image": "https://example.com/images/lexus_car_7.jpg"},
+  {"name": "Lexus Car 8","model": "LEX-108","price": "₹1.15 crore","image": "https://example.com/images/lexus_car_8.jpg"},
+  {"name": "Lexus Car 9","model": "LEX-109","price": "₹1.2 crore","image": "https://example.com/images/lexus_car_9.jpg"},
+  {"name": "Lexus Car 10","model": "LEX-110","price": "₹1.25 crore","image": "https://example.com/images/lexus_car_10.jpg"},
+  {"name": "Lexus Car 11","model": "LEX-111","price": "₹1.3 crore","image": "https://example.com/images/lexus_car_11.jpg"},
+  {"name": "Lexus Car 12","model": "LEX-112","price": "₹1.35 crore","image": "https://example.com/images/lexus_car_12.jpg"}
+],
+
+"porsche": [
+  {"name": "Porsche Car 1","model": "POR-101","price": "₹1.2 crore","image": "https://example.com/images/porsche_car_1.jpg"},
+  {"name": "Porsche Car 2","model": "POR-102","price": "₹1.3 crore","image": "https://example.com/images/porsche_car_2.jpg"},
+  {"name": "Porsche Car 3","model": "POR-103","price": "₹1.4 crore","image": "https://example.com/images/porsche_car_3.jpg"},
+  {"name": "Porsche Car 4","model": "POR-104","price": "₹1.5 crore","image": "https://example.com/images/porsche_car_4.jpg"},
+  {"name": "Porsche Car 5","model": "POR-105","price": "₹1.6 crore","image": "https://example.com/images/porsche_car_5.jpg"},
+  {"name": "Porsche Car 6","model": "POR-106","price": "₹1.7 crore","image": "https://example.com/images/porsche_car_6.jpg"},
+  {"name": "Porsche Car 7","model": "POR-107","price": "₹1.8 crore","image": "https://example.com/images/porsche_car_7.jpg"},
+  {"name": "Porsche Car 8","model": "POR-108","price": "₹1.9 crore","image": "https://example.com/images/porsche_car_8.jpg"},
+  {"name": "Porsche Car 9","model": "POR-109","price": "₹2 crore","image": "https://example.com/images/porsche_car_9.jpg"},
+  {"name": "Porsche Car 10","model": "POR-110","price": "₹2.1 crore","image": "https://example.com/images/porsche_car_10.jpg"},
+  {"name": "Porsche Car 11","model": "POR-111","price": "₹2.2 crore","image": "https://example.com/images/porsche_car_11.jpg"},
+  {"name": "Porsche Car 12","model": "POR-112","price": "₹2.3 crore","image": "https://example.com/images/porsche_car_12.jpg"}
+],
+"Maruti_Suzuki": [
+  {
+    "name": "Maruti Suzuki Swift",
+    "model": "MS-101",
+    "price": "₹5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_swift.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Baleno",
+    "model": "MS-102",
+    "price": "₹6 lakh",
+    "image": "https://example.com/images/maruti_suzuki_baleno.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Dzire",
+    "model": "MS-103",
+    "price": "₹6.5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_dzire.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Vitara Brezza",
+    "model": "MS-104",
+    "price": "₹7 lakh",
+    "image": "https://example.com/images/maruti_suzuki_brezza.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Ertiga",
+    "model": "MS-105",
+    "price": "₹7.5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_ertiga.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Celerio",
+    "model": "MS-106",
+    "price": "₹4.5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_celerio.jpg"
+  },
+  {
+    "name": "Maruti Suzuki S-Cross",
+    "model": "MS-107",
+    "price": "₹8 lakh",
+    "image": "https://example.com/images/maruti_suzuki_scross.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Alto",
+    "model": "MS-108",
+    "price": "₹3.5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_alto.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Ignis",
+    "model": "MS-109",
+    "price": "₹5.5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_ignis.jpg"
+  },
+  {
+    "name": "Maruti Suzuki XL6",
+    "model": "MS-110",
+    "price": "₹9 lakh",
+    "image": "https://example.com/images/maruti_suzuki_xl6.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Ciaz",
+    "model": "MS-111",
+    "price": "₹8.5 lakh",
+    "image": "https://example.com/images/maruti_suzuki_ciaz.jpg"
+  },
+  {
+    "name": "Maruti Suzuki Brezza Smart Hybrid",
+    "model": "MS-112",
+    "price": "₹7.2 lakh",
+    "image": "https://example.com/images/maruti_suzuki_brezza_hybrid.jpg"
+  }
+]
+,
+"landrover": [
+  {"name": "Land Rover Car 1","model": "LR-101","price": "₹1.1 crore","image": "https://example.com/images/landrover_car_1.jpg"},
+  {"name": "Land Rover Car 2","model": "LR-102","price": "₹1.15 crore","image": "https://example.com/images/landrover_car_2.jpg"},
+  {"name": "Land Rover Car 3","model": "LR-103","price": "₹1.2 crore","image": "https://example.com/images/landrover_car_3.jpg"},
+  {"name": "Land Rover Car 4","model": "LR-104","price": "₹1.25 crore","image": "https://example.com/images/landrover_car_4.jpg"},
+  {"name": "Land Rover Car 5","model": "LR-105","price": "₹1.3 crore","image": "https://example.com/images/landrover_car_5.jpg"},
+  {"name": "Land Rover Car 6","model": "LR-106","price": "₹1.35 crore","image": "https://example.com/images/landrover_car_6.jpg"},
+  {"name": "Land Rover Car 7","model": "LR-107","price": "₹1.4 crore","image": "https://example.com/images/landrover_car_7.jpg"},
+  {"name": "Land Rover Car 8","model": "LR-108","price": "₹1.45 crore","image": "https://example.com/images/landrover_car_8.jpg"},
+  {"name": "Land Rover Car 9","model": "LR-109","price": "₹1.5 crore","image": "https://example.com/images/landrover_car_9.jpg"},
+  {"name": "Land Rover Car 10","model": "LR-110","price": "₹1.55 crore","image": "https://example.com/images/landrover_car_10.jpg"},
+  {"name": "Land Rover Car 11","model": "LR-111","price": "₹1.6 crore","image": "https://example.com/images/landrover_car_11.jpg"},
+  {"name": "Land Rover Car 12","model": "LR-112","price": "₹1.65 crore","image": "https://example.com/images/landrover_car_12.jpg"}
+]
+,
+    "toyota": [
+      {
+        "name": "Toyota Car 1",
+        "model": "TOYOTA-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/toyota_car_1.jpg"
+      },
+      {
+        "name": "Toyota Car 2",
+        "model": "TOYOTA-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/toyota_car_2.jpg"
+      },
+      {
+        "name": "Toyota Car 3",
+        "model": "TOYOTA-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/toyota_car_3.jpg"
+      },
+      {
+        "name": "Toyota Car 4",
+        "model": "TOYOTA-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/toyota_car_4.jpg"
+      },
+      {
+        "name": "Toyota Car 5",
+        "model": "TOYOTA-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/toyota_car_5.jpg"
+      },
+      {
+        "name": "Toyota Car 6",
+        "model": "TOYOTA-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/toyota_car_6.jpg"
+      },
+      {
+        "name": "Toyota Car 7",
+        "model": "TOYOTA-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/toyota_car_7.jpg"
+      },
+      {
+        "name": "Toyota Car 8",
+        "model": "TOYOTA-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/toyota_car_8.jpg"
+      },
+      {
+        "name": "Toyota Car 9",
+        "model": "TOYOTA-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/toyota_car_9.jpg"
+      },
+      {
+        "name": "Toyota Car 10",
+        "model": "TOYOTA-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/toyota_car_10.jpg"
+      },
+      {
+        "name": "Toyota Car 11",
+        "model": "TOYOTA-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/toyota_car_11.jpg"
+      },
+      {
+        "name": "Toyota Car 12",
+        "model": "TOYOTA-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/toyota_car_12.jpg"
+      },
+      {
+        "name": "Toyota Car 13",
+        "model": "TOYOTA-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/toyota_car_13.jpg"
+      },
+      {
+        "name": "Toyota Car 14",
+        "model": "TOYOTA-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/toyota_car_14.jpg"
+      },
+      {
+        "name": "Toyota Car 15",
+        "model": "TOYOTA-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/toyota_car_15.jpg"
+      },
+      {
+        "name": "Toyota Car 16",
+        "model": "TOYOTA-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/toyota_car_16.jpg"
+      },
+      {
+        "name": "Toyota Car 17",
+        "model": "TOYOTA-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/toyota_car_17.jpg"
+      },
+      {
+        "name": "Toyota Car 18",
+        "model": "TOYOTA-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/toyota_car_18.jpg"
+      },
+      {
+        "name": "Toyota Car 19",
+        "model": "TOYOTA-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/toyota_car_19.jpg"
+      },
+      {
+        "name": "Toyota Car 20",
+        "model": "TOYOTA-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/toyota_car_20.jpg"
+      }
+    ],
+    "kia": [
+      {
+        "name": "Kia Car 1",
+        "model": "KIA-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/kia_car_1.jpg"
+      },
+      {
+        "name": "Kia Car 2",
+        "model": "KIA-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/kia_car_2.jpg"
+      },
+      {
+        "name": "Kia Car 3",
+        "model": "KIA-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/kia_car_3.jpg"
+      },
+      {
+        "name": "Kia Car 4",
+        "model": "KIA-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/kia_car_4.jpg"
+      },
+      {
+        "name": "Kia Car 5",
+        "model": "KIA-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/kia_car_5.jpg"
+      },
+      {
+        "name": "Kia Car 6",
+        "model": "KIA-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/kia_car_6.jpg"
+      },
+      {
+        "name": "Kia Car 7",
+        "model": "KIA-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/kia_car_7.jpg"
+      },
+      {
+        "name": "Kia Car 8",
+        "model": "KIA-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/kia_car_8.jpg"
+      },
+      {
+        "name": "Kia Car 9",
+        "model": "KIA-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/kia_car_9.jpg"
+      },
+      {
+        "name": "Kia Car 10",
+        "model": "KIA-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/kia_car_10.jpg"
+      },
+      {
+        "name": "Kia Car 11",
+        "model": "KIA-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/kia_car_11.jpg"
+      },
+      {
+        "name": "Kia Car 12",
+        "model": "KIA-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/kia_car_12.jpg"
+      },
+      {
+        "name": "Kia Car 13",
+        "model": "KIA-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/kia_car_13.jpg"
+      },
+      {
+        "name": "Kia Car 14",
+        "model": "KIA-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/kia_car_14.jpg"
+      },
+      {
+        "name": "Kia Car 15",
+        "model": "KIA-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/kia_car_15.jpg"
+      },
+      {
+        "name": "Kia Car 16",
+        "model": "KIA-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/kia_car_16.jpg"
+      },
+      {
+        "name": "Kia Car 17",
+        "model": "KIA-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/kia_car_17.jpg"
+      },
+      {
+        "name": "Kia Car 18",
+        "model": "KIA-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/kia_car_18.jpg"
+      },
+      {
+        "name": "Kia Car 19",
+        "model": "KIA-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/kia_car_19.jpg"
+      },
+      {
+        "name": "Kia Car 20",
+        "model": "KIA-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/kia_car_20.jpg"
+      }
+    ],
+    "bmw": [
+      {
+        "name": "Bmw Car 1",
+        "model": "BMW-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/bmw_car_1.jpg"
+      },
+      {
+        "name": "Bmw Car 2",
+        "model": "BMW-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/bmw_car_2.jpg"
+      },
+      {
+        "name": "Bmw Car 3",
+        "model": "BMW-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/bmw_car_3.jpg"
+      },
+      {
+        "name": "Bmw Car 4",
+        "model": "BMW-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/bmw_car_4.jpg"
+      },
+      {
+        "name": "Bmw Car 5",
+        "model": "BMW-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/bmw_car_5.jpg"
+      },
+      {
+        "name": "Bmw Car 6",
+        "model": "BMW-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/bmw_car_6.jpg"
+      },
+      {
+        "name": "Bmw Car 7",
+        "model": "BMW-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/bmw_car_7.jpg"
+      },
+      {
+        "name": "Bmw Car 8",
+        "model": "BMW-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/bmw_car_8.jpg"
+      },
+      {
+        "name": "Bmw Car 9",
+        "model": "BMW-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/bmw_car_9.jpg"
+      },
+      {
+        "name": "Bmw Car 10",
+        "model": "BMW-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/bmw_car_10.jpg"
+      },
+      {
+        "name": "Bmw Car 11",
+        "model": "BMW-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/bmw_car_11.jpg"
+      },
+      {
+        "name": "Bmw Car 12",
+        "model": "BMW-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/bmw_car_12.jpg"
+      },
+      {
+        "name": "Bmw Car 13",
+        "model": "BMW-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/bmw_car_13.jpg"
+      },
+      {
+        "name": "Bmw Car 14",
+        "model": "BMW-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/bmw_car_14.jpg"
+      },
+      {
+        "name": "Bmw Car 15",
+        "model": "BMW-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/bmw_car_15.jpg"
+      },
+      {
+        "name": "Bmw Car 16",
+        "model": "BMW-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/bmw_car_16.jpg"
+      },
+      {
+        "name": "Bmw Car 17",
+        "model": "BMW-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/bmw_car_17.jpg"
+      },
+      {
+        "name": "Bmw Car 18",
+        "model": "BMW-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/bmw_car_18.jpg"
+      },
+      {
+        "name": "Bmw Car 19",
+        "model": "BMW-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/bmw_car_19.jpg"
+      },
+      {
+        "name": "Bmw Car 20",
+        "model": "BMW-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/bmw_car_20.jpg"
+      }
+    ],
+    "skoda": [
+      {
+        "name": "Skoda Car 1",
+        "model": "SKODA-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/skoda_car_1.jpg"
+      },
+      {
+        "name": "Skoda Car 2",
+        "model": "SKODA-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/skoda_car_2.jpg"
+      },
+      {
+        "name": "Skoda Car 3",
+        "model": "SKODA-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/skoda_car_3.jpg"
+      },
+      {
+        "name": "Skoda Car 4",
+        "model": "SKODA-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/skoda_car_4.jpg"
+      },
+      {
+        "name": "Skoda Car 5",
+        "model": "SKODA-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/skoda_car_5.jpg"
+      },
+      {
+        "name": "Skoda Car 6",
+        "model": "SKODA-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/skoda_car_6.jpg"
+      },
+      {
+        "name": "Skoda Car 7",
+        "model": "SKODA-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/skoda_car_7.jpg"
+      },
+      {
+        "name": "Skoda Car 8",
+        "model": "SKODA-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/skoda_car_8.jpg"
+      },
+      {
+        "name": "Skoda Car 9",
+        "model": "SKODA-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/skoda_car_9.jpg"
+      },
+      {
+        "name": "Skoda Car 10",
+        "model": "SKODA-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/skoda_car_10.jpg"
+      },
+      {
+        "name": "Skoda Car 11",
+        "model": "SKODA-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/skoda_car_11.jpg"
+      },
+      {
+        "name": "Skoda Car 12",
+        "model": "SKODA-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/skoda_car_12.jpg"
+      },
+      {
+        "name": "Skoda Car 13",
+        "model": "SKODA-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/skoda_car_13.jpg"
+      },
+      {
+        "name": "Skoda Car 14",
+        "model": "SKODA-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/skoda_car_14.jpg"
+      },
+      {
+        "name": "Skoda Car 15",
+        "model": "SKODA-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/skoda_car_15.jpg"
+      },
+      {
+        "name": "Skoda Car 16",
+        "model": "SKODA-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/skoda_car_16.jpg"
+      },
+      {
+        "name": "Skoda Car 17",
+        "model": "SKODA-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/skoda_car_17.jpg"
+      },
+      {
+        "name": "Skoda Car 18",
+        "model": "SKODA-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/skoda_car_18.jpg"
+      },
+      {
+        "name": "Skoda Car 19",
+        "model": "SKODA-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/skoda_car_19.jpg"
+      },
+      {
+        "name": "Skoda Car 20",
+        "model": "SKODA-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/skoda_car_20.jpg"
+      }
+    ],
+    "land_rover": [
+      {
+        "name": "Land_rover Car 1",
+        "model": "LAND_ROVER-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/land_rover_car_1.jpg"
+      },
+      {
+        "name": "Land_rover Car 2",
+        "model": "LAND_ROVER-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/land_rover_car_2.jpg"
+      },
+      {
+        "name": "Land_rover Car 3",
+        "model": "LAND_ROVER-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/land_rover_car_3.jpg"
+      },
+      {
+        "name": "Land_rover Car 4",
+        "model": "LAND_ROVER-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/land_rover_car_4.jpg"
+      },
+      {
+        "name": "Land_rover Car 5",
+        "model": "LAND_ROVER-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/land_rover_car_5.jpg"
+      },
+      {
+        "name": "Land_rover Car 6",
+        "model": "LAND_ROVER-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/land_rover_car_6.jpg"
+      },
+      {
+        "name": "Land_rover Car 7",
+        "model": "LAND_ROVER-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/land_rover_car_7.jpg"
+      },
+      {
+        "name": "Land_rover Car 8",
+        "model": "LAND_ROVER-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/land_rover_car_8.jpg"
+      },
+      {
+        "name": "Land_rover Car 9",
+        "model": "LAND_ROVER-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/land_rover_car_9.jpg"
+      },
+      {
+        "name": "Land_rover Car 10",
+        "model": "LAND_ROVER-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/land_rover_car_10.jpg"
+      },
+      {
+        "name": "Land_rover Car 11",
+        "model": "LAND_ROVER-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/land_rover_car_11.jpg"
+      },
+      {
+        "name": "Land_rover Car 12",
+        "model": "LAND_ROVER-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/land_rover_car_12.jpg"
+      },
+      {
+        "name": "Land_rover Car 13",
+        "model": "LAND_ROVER-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/land_rover_car_13.jpg"
+      },
+      {
+        "name": "Land_rover Car 14",
+        "model": "LAND_ROVER-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/land_rover_car_14.jpg"
+      },
+      {
+        "name": "Land_rover Car 15",
+        "model": "LAND_ROVER-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/land_rover_car_15.jpg"
+      },
+      {
+        "name": "Land_rover Car 16",
+        "model": "LAND_ROVER-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/land_rover_car_16.jpg"
+      },
+      {
+        "name": "Land_rover Car 17",
+        "model": "LAND_ROVER-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/land_rover_car_17.jpg"
+      },
+      {
+        "name": "Land_rover Car 18",
+        "model": "LAND_ROVER-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/land_rover_car_18.jpg"
+      },
+      {
+        "name": "Land_rover Car 19",
+        "model": "LAND_ROVER-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/land_rover_car_19.jpg"
+      },
+      {
+        "name": "Land_rover Car 20",
+        "model": "LAND_ROVER-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/land_rover_car_20.jpg"
+      }
+    ],
+    "audi": [
+      {
+        "name": "Audi Car 1",
+        "model": "AUDI-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/audi_car_1.jpg"
+      },
+      {
+        "name": "Audi Car 2",
+        "model": "AUDI-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/audi_car_2.jpg"
+      },
+      {
+        "name": "Audi Car 3",
+        "model": "AUDI-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/audi_car_3.jpg"
+      },
+      {
+        "name": "Audi Car 4",
+        "model": "AUDI-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/audi_car_4.jpg"
+      },
+      {
+        "name": "Audi Car 5",
+        "model": "AUDI-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/audi_car_5.jpg"
+      },
+      {
+        "name": "Audi Car 6",
+        "model": "AUDI-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/audi_car_6.jpg"
+      },
+      {
+        "name": "Audi Car 7",
+        "model": "AUDI-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/audi_car_7.jpg"
+      },
+      {
+        "name": "Audi Car 8",
+        "model": "AUDI-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/audi_car_8.jpg"
+      },
+      {
+        "name": "Audi Car 9",
+        "model": "AUDI-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/audi_car_9.jpg"
+      },
+      {
+        "name": "Audi Car 10",
+        "model": "AUDI-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/audi_car_10.jpg"
+      },
+      {
+        "name": "Audi Car 11",
+        "model": "AUDI-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/audi_car_11.jpg"
+      },
+      {
+        "name": "Audi Car 12",
+        "model": "AUDI-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/audi_car_12.jpg"
+      },
+      {
+        "name": "Audi Car 13",
+        "model": "AUDI-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/audi_car_13.jpg"
+      },
+      {
+        "name": "Audi Car 14",
+        "model": "AUDI-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/audi_car_14.jpg"
+      },
+      {
+        "name": "Audi Car 15",
+        "model": "AUDI-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/audi_car_15.jpg"
+      },
+      {
+        "name": "Audi Car 16",
+        "model": "AUDI-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/audi_car_16.jpg"
+      },
+      {
+        "name": "Audi Car 17",
+        "model": "AUDI-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/audi_car_17.jpg"
+      },
+      {
+        "name": "Audi Car 18",
+        "model": "AUDI-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/audi_car_18.jpg"
+      },
+      {
+        "name": "Audi Car 19",
+        "model": "AUDI-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/audi_car_19.jpg"
+      },
+      {
+        "name": "Audi Car 20",
+        "model": "AUDI-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/audi_car_20.jpg"
+      }
+    ]
+,
+    "volkswagen": [
+  {
+    "name": "Volkswagen Car 1",
+    "model": "VW-101",
+    "price": "₹5.5 lakh",
+    "image": "https://example.com/images/volkswagen_car_1.jpg"
+  },
+  {
+    "name": "Volkswagen Car 2",
+    "model": "VW-102",
+    "price": "₹6 lakh",
+    "image": "https://example.com/images/volkswagen_car_2.jpg"
+  },
+  {
+    "name": "Volkswagen Car 3",
+    "model": "VW-103",
+    "price": "₹6.5 lakh",
+    "image": "https://example.com/images/volkswagen_car_3.jpg"
+  },
+  {
+    "name": "Volkswagen Car 4",
+    "model": "VW-104",
+    "price": "₹7 lakh",
+    "image": "https://example.com/images/volkswagen_car_4.jpg"
+  },
+  {
+    "name": "Volkswagen Car 5",
+    "model": "VW-105",
+    "price": "₹7.5 lakh",
+    "image": "https://example.com/images/volkswagen_car_5.jpg"
+  },
+  {
+    "name": "Volkswagen Car 6",
+    "model": "VW-106",
+    "price": "₹8 lakh",
+    "image": "https://example.com/images/volkswagen_car_6.jpg"
+  },
+  {
+    "name": "Volkswagen Car 7",
+    "model": "VW-107",
+    "price": "₹8.5 lakh",
+    "image": "https://example.com/images/volkswagen_car_7.jpg"
+  },
+  {
+    "name": "Volkswagen Car 8",
+    "model": "VW-108",
+    "price": "₹9 lakh",
+    "image": "https://example.com/images/volkswagen_car_8.jpg"
+  },
+  {
+    "name": "Volkswagen Car 9",
+    "model": "VW-109",
+    "price": "₹9.5 lakh",
+    "image": "https://example.com/images/volkswagen_car_9.jpg"
+  },
+  {
+    "name": "Volkswagen Car 10",
+    "model": "VW-110",
+    "price": "₹10 lakh",
+    "image": "https://example.com/images/volkswagen_car_10.jpg"
+  },
+  {
+    "name": "Volkswagen Car 11",
+    "model": "VW-111",
+    "price": "₹10.5 lakh",
+    "image": "https://example.com/images/volkswagen_car_11.jpg"
+  },
+  {
+    "name": "Volkswagen Car 12",
+    "model": "VW-112",
+    "price": "₹11 lakh",
+    "image": "https://example.com/images/volkswagen_car_12.jpg"
+  }
+]
+,
+    "mercedes": [
+      {
+        "name": "Mercedes Car 1",
+        "model": "MERCEDES-101",
+        "price": "\u20b96 lakh",
+        "image": "https://example.com/images/mercedes_car_1.jpg"
+      },
+      {
+        "name": "Mercedes Car 2",
+        "model": "MERCEDES-102",
+        "price": "\u20b97 lakh",
+        "image": "https://example.com/images/mercedes_car_2.jpg"
+      },
+      {
+        "name": "Mercedes Car 3",
+        "model": "MERCEDES-103",
+        "price": "\u20b98 lakh",
+        "image": "https://example.com/images/mercedes_car_3.jpg"
+      },
+      {
+        "name": "Mercedes Car 4",
+        "model": "MERCEDES-104",
+        "price": "\u20b99 lakh",
+        "image": "https://example.com/images/mercedes_car_4.jpg"
+      },
+      {
+        "name": "Mercedes Car 5",
+        "model": "MERCEDES-105",
+        "price": "\u20b910 lakh",
+        "image": "https://example.com/images/mercedes_car_5.jpg"
+      },
+      {
+        "name": "Mercedes Car 6",
+        "model": "MERCEDES-106",
+        "price": "\u20b911 lakh",
+        "image": "https://example.com/images/mercedes_car_6.jpg"
+      },
+      {
+        "name": "Mercedes Car 7",
+        "model": "MERCEDES-107",
+        "price": "\u20b912 lakh",
+        "image": "https://example.com/images/mercedes_car_7.jpg"
+      },
+      {
+        "name": "Mercedes Car 8",
+        "model": "MERCEDES-108",
+        "price": "\u20b913 lakh",
+        "image": "https://example.com/images/mercedes_car_8.jpg"
+      },
+      {
+        "name": "Mercedes Car 9",
+        "model": "MERCEDES-109",
+        "price": "\u20b914 lakh",
+        "image": "https://example.com/images/mercedes_car_9.jpg"
+      },
+      {
+        "name": "Mercedes Car 10",
+        "model": "MERCEDES-110",
+        "price": "\u20b915 lakh",
+        "image": "https://example.com/images/mercedes_car_10.jpg"
+      },
+      {
+        "name": "Mercedes Car 11",
+        "model": "MERCEDES-111",
+        "price": "\u20b916 lakh",
+        "image": "https://example.com/images/mercedes_car_11.jpg"
+      },
+      {
+        "name": "Mercedes Car 12",
+        "model": "MERCEDES-112",
+        "price": "\u20b917 lakh",
+        "image": "https://example.com/images/mercedes_car_12.jpg"
+      },
+      {
+        "name": "Mercedes Car 13",
+        "model": "MERCEDES-113",
+        "price": "\u20b918 lakh",
+        "image": "https://example.com/images/mercedes_car_13.jpg"
+      },
+      {
+        "name": "Mercedes Car 14",
+        "model": "MERCEDES-114",
+        "price": "\u20b919 lakh",
+        "image": "https://example.com/images/mercedes_car_14.jpg"
+      },
+      {
+        "name": "Mercedes Car 15",
+        "model": "MERCEDES-115",
+        "price": "\u20b920 lakh",
+        "image": "https://example.com/images/mercedes_car_15.jpg"
+      },
+      {
+        "name": "Mercedes Car 16",
+        "model": "MERCEDES-116",
+        "price": "\u20b921 lakh",
+        "image": "https://example.com/images/mercedes_car_16.jpg"
+      },
+      {
+        "name": "Mercedes Car 17",
+        "model": "MERCEDES-117",
+        "price": "\u20b922 lakh",
+        "image": "https://example.com/images/mercedes_car_17.jpg"
+      },
+      {
+        "name": "Mercedes Car 18",
+        "model": "MERCEDES-118",
+        "price": "\u20b923 lakh",
+        "image": "https://example.com/images/mercedes_car_18.jpg"
+      },
+      {
+        "name": "Mercedes Car 19",
+        "model": "MERCEDES-119",
+        "price": "\u20b924 lakh",
+        "image": "https://example.com/images/mercedes_car_19.jpg"
+      },
+      {
+        "name": "Mercedes Car 20",
+        "model": "MERCEDES-120",
+        "price": "\u20b925 lakh",
+        "image": "https://example.com/images/mercedes_car_20.jpg"
+      }
+    ]
+
+  }
+}
