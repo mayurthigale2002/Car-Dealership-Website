@@ -3,7 +3,7 @@ import axios from "axios";
 import { useParams } from "react-router-dom";
 
 const BrandCars = () => {
-  const { brand } = useParams(); // tata, mahindra, etc
+  const { brand } = useParams();
   const [cars, setCars] = useState([]);
   const [loading, setLoading] = useState(true);
 

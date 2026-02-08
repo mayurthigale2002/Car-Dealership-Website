@@ -33,7 +33,8 @@ const categories = [
   },
   {
     name: "Hybrid Cars",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtNFAJWMQQl6HRYrynFtxZaBYuj7rJNEBcg&s",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtNFAJWMQQl6HRYrynFtxZaBYuj7rJNEBcg&s",
     path: "/cars/hybrid",
   },
   {
@@ -47,7 +48,7 @@ const categories = [
     path: "/cars/convertible",
   },
   {
-    name: "Pickup Trucks",
+    name: " Tesla Models",
     image: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
     path: "/cars/pickup",
   },
@@ -57,51 +58,62 @@ const Categories = () => {
   const navigate = useNavigate();
 
   return (
-    <section className="py-20 bg-black text-white">
-      <div className="container mx-auto px-6">
+    <section className="py-16 bg-black text-white">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
 
         {/* Heading */}
-        <div className="text-center mb-12" data-aos="fade-up">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">
+        <div className="text-center mb-10" data-aos="fade-up">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3">
             Explore Car Categories
           </h2>
-          <p className="text-gray-400 max-w-2xl mx-auto">
+          <p className="text-gray-400 max-w-xl mx-auto text-sm sm:text-base">
             Discover vehicles built for every road, lifestyle, and passion.
           </p>
         </div>
 
-        {/* Swipeable Categories */}
-        <div className="flex gap-6 overflow-x-auto pb-4 scrollbar-hide lg:grid lg:grid-cols-5 lg:overflow-visible">
-
+        {/* Grid (NO SCROLL) */}
+        <div className="
+          grid grid-cols-2
+          sm:grid-cols-3
+          lg:grid-cols-5
+          gap-4 sm:gap-6
+        ">
           {categories.map((cat, index) => (
             <div
               key={index}
-              onClick={() => navigate(cat.path)}
+              // onClick={() => navigate(cat.path)}
               data-aos="zoom-in"
-              data-aos-delay={index * 80}
-              className="min-w-[260px] lg:min-w-0 cursor-pointer group relative rounded-2xl overflow-hidden shadow-xl"
+              data-aos-delay={index * 70}
+              className="
+                cursor-pointer
+                group
+                relative
+                rounded-2xl
+                overflow-hidden
+                shadow-xl
+                h-48 sm:h-60 lg:h-64
+                active:scale-95
+                transition-transform
+              "
             >
               {/* Image */}
               <img
                 src={cat.image}
                 alt={cat.name}
-                className="w-full h-64 object-cover transform group-hover:scale-110 transition duration-500"
+                className="w-full h-full object-cover group-hover:scale-110 transition duration-500"
               />
 
-              {/* Gradient Overlay */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent opacity-80 group-hover:opacity-100 transition"></div>
+              <div className="absolute inset-0 bg-linear-to-t from-black via-black/40 to-transparent"></div>
 
-              {/* Text */}
-              <div className="absolute bottom-6 left-6">
-                <h3 className="text-xl font-semibold">{cat.name}</h3>
-                <p className="text-sm text-gray-300 mt-1">
-                  View Cars →
-                </p>
+              <div className="absolute bottom-4 left-4">
+                <h3 className="text-base sm:text-lg font-semibold">
+                  {cat.name}
+                </h3>
               </div>
             </div>
           ))}
-
         </div>
+
       </div>
     </section>
   );

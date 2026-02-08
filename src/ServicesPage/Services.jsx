@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import ServiceCard from "./ServiceCard";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import {
@@ -13,6 +12,7 @@ import {
   FaRecycle,
 } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
+import ServiceCard from "./ServiceCard";
 
 // Services data
 const servicesData = [
@@ -105,23 +105,29 @@ const Services = () => {
         data-aos-easing="ease-in-out"
         data-aos-once="true"
       >
-        Our Car Services
+        <span className="bg-linear-to-r from-red-500 to-orange-400 bg-clip-text text-transparent">
+          Car Services
+        </span>
       </h2>
-      <p
-  className="text-center text-gray-600 mb-16 mx-auto text-lg drop-shadow-md"
+     <p
+  className="text-center text-gray-600 mb-16 mx-auto max-w-3xl text-lg drop-shadow-md"
   data-aos="fade-up"
-  data-aos-duration="1000"
+  data-aos-delay="200"
   data-aos-easing="ease-in-out"
   data-aos-once="true"
 >
-  At <span className="text-yellow-600 font-semibold">Our Car Services</span>, we provide a wide range of solutions designed to keep your vehicle running smoothly and looking its best. From routine maintenance and professional repairs to car detailing, insurance, and performance tuning, our expert team ensures safety, reliability, and convenience at every step. Explore our services and book your appointment today for a seamless driving experience.
+  At{" "}
+  <span className="text-yellow-600 font-semibold">Our Car Services</span>,
+  all-in-one automotive solutions including maintenance, diagnostics, repairs,
+  detailing, insurance, and performance tuning—delivering safety, reliability,
+  and a smooth, hassle-free driving experience.
 </p>
 
 
       {/* Book Service Button */}
       <button
         onClick={handleBooking}
-        className="bg-gradient-to-r from-yellow-600 to-orange-300 
+        className="bg-linear-to-r from-yellow-600 to-orange-300 
              text-black font-bold py-3 px-8 rounded-xl 
              mx-auto block mb-10 shadow-lg border-t-2 border-yellow-400
              hover:from-yellow-100 hover:to-orange-900 

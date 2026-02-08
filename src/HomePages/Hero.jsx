@@ -1,8 +1,20 @@
+import { useNavigate } from "react-router-dom";
+
 const Hero = () => {
+  const navigate = useNavigate();
+
   return (
-    <section className="min-h-screen bg-black text-white flex items-center">
-      <div className="container mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
-        
+    <section
+      className="min-h-screen text-white flex items-center bg-cover bg-center relative"
+      style={{
+        backgroundImage:
+          "url('https://blog.serchen.com/wp-content/uploads/2024/06/car-brand-logos-1.jpg')",
+      }}
+    >
+      {/* Overlay for better readability */}
+      <div className="absolute inset-0 bg-black/60"></div>
+
+      <div className="container mx-auto px-6 grid md:grid-cols-2 gap-10 items-center relative z-10">
         {/* Text */}
         <div data-aos="fade-right">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 mt-20">
@@ -13,10 +25,17 @@ const Hero = () => {
             car models designed for modern roads.
           </p>
           <div className="flex gap-4">
-            <button className="bg-red-500 hover:bg-red-600 px-6 py-3 rounded-lg font-semibold">
+            <button
+              onClick={() => navigate("/cars")}
+              className="bg-red-500 hover:bg-red-600 px-6 py-3 rounded-lg font-semibold"
+            >
               Explore Cars
             </button>
-            <button className="border border-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition">
+
+            <button
+              onClick={() => navigate("/testdrive")}
+              className="border border-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition"
+            >
               Book Test Drive
             </button>
           </div>

@@ -16,10 +16,10 @@ const Testimonials = () => {
 
           {/* Card 1 */}
           <div
-            className="bg-gray-100 p-6 rounded-xl shadow-lg"
+            className="bg-gray-800 p-6 rounded-xl"
             data-aos="fade-right"
           >
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-200 mb-4">
               “Amazing experience! The car performance is outstanding and the
               interiors are extremely comfortable.”
             </p>
@@ -38,17 +38,17 @@ const Testimonials = () => {
 
           {/* Card 2 */}
           <div
-            className="bg-gray-100 p-6 rounded-xl shadow-lg"
+            className="bg-gray-800 p-6 rounded-xl"
             data-aos="fade-up"
             data-aos-delay="150"
           >
-            <p className="text-gray-700 mb-4">
-              “Best car purchase ever. Safety features and smooth driving make
+            <p className="text-gray-200 mb-4">
+              “Best car purchase ever. Safety features and smooth driving makes our
               every journey enjoyable.”
             </p>
             <div className="flex items-center gap-4">
               <img
-                src="https://i.pravatar.cc/100?img=8"
+                src="https://i.pravatar.cc/400?img=27"
                 alt="Customer"
                 className="w-12 h-12 rounded-full"
               />
@@ -61,11 +61,11 @@ const Testimonials = () => {
 
           {/* Card 3 */}
           <div
-            className="bg-gray-100 p-6 rounded-xl shadow-lg"
+            className="bg-gray-800 p-6 rounded-xl"
             data-aos="fade-left"
             data-aos-delay="300"
           >
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-200 mb-4">
               “Luxury, performance, and style – everything I wanted in my dream
               car. Highly recommended!”
             </p>

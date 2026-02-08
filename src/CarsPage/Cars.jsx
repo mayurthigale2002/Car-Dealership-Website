@@ -115,12 +115,15 @@ const Cars = () => {
 
   return (
     <div className="bg-black mt-16 min-h-screen text-white py-12">
-      <h2
-        className="text-center text-3xl md:text-4xl font-bold mb-5"
+      <h1
+        className="text-center text-4xl md:text-4xl font-bold mb-5"
         data-aos="fade-up"
       >
-        Explore Car Brands
-      </h2>
+        <span className="bg-linear-to-r from-red-500 to-orange-400 bg-clip-text text-transparent">
+          Explore Car Brands
+        </span>
+        
+      </h1>
       <div
         className="flex justify-center mb-4"
         data-aos="fade-up"
@@ -133,6 +136,8 @@ const Cars = () => {
         </p>
       </div>
 
+   
+
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 px-6">
         {brands.map((brand, index) => (
           <div
@@ -142,7 +147,7 @@ const Cars = () => {
               bg-gray-900 rounded-xl p-6 
               flex flex-col items-center
               hover:-translate-y-2
-              hover:bg-gradient-to-t hover:from-black-500 hover:to-red-500
+              hover:bg-red-500
               transition-all duration-300
             "
           >
