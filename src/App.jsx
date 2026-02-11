@@ -1,5 +1,6 @@
 import React from "react";
 import { Navigate } from "react-router-dom";
+import { Toaster } from "react-hot-toast";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 import Navbar from "./NavbarPage/Navbar";
@@ -56,6 +57,21 @@ const App = () => {
     <Router>
       <Navbar />
 
+      <Toaster
+        position="top-right"
+        gutter={12}
+        toastOptions={{
+          duration: 3000,
+          style: {
+            background: "#0f172a",
+            color: "#f8fafc",
+            borderRadius: "12px",
+            border: "1px solid #dc2626",
+            boxShadow: "0 10px 25px rgba(0,0,0,0.4)",
+          },
+        }}
+      />
+
       <Routes>
         {/* Public Pages */}
         <Route path="/" element={<Home />} />
@@ -76,7 +92,6 @@ const App = () => {
 
         {/* Services Page */}
         <Route path="/services" element={<Services />} />
-
 
         {/* Footer Pages */}
         <Route path="/sales" element={<CarSales />} />

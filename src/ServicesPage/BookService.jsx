@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import toast from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
 
 const servicesOptions = [
@@ -35,7 +36,7 @@ const BookService = () => {
 
     // Optional: send form data to API here
 
-    alert("Your service booking has been submitted!");
+    toast.success("Your service booking has been submitted!");
 
     // Clear the form
     setFormData({

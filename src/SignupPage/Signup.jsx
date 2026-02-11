@@ -5,6 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaUser, FaEnvelope, FaPhone, FaLock } from "react-icons/fa";
 import Image from "./Image";
+import toast from "react-hot-toast";
 
 const Signup = () => {
   const navigate = useNavigate();
@@ -30,7 +31,7 @@ const Signup = () => {
 
     try {
       await axios.post("https://698c204a21a248a273608bc4.mockapi.io/users", formData);
-      alert("Account created successfully 🎉");
+      toast.success("Account created successfully 🎉");
       navigate("/login");
     } catch (err) {
       console.log(err);

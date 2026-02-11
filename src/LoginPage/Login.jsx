@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 import axios from "axios";
+import toast from "react-hot-toast";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaEnvelope, FaLock } from "react-icons/fa";
@@ -47,9 +48,10 @@ const Login = () => {
       localStorage.setItem("isAuth", "true");
       localStorage.setItem("userId", user.id);
       localStorage.setItem("userName", user.name);
+      toast.success("Logged in successfully 👋");
       navigate("/");
     } else {
-      alert("Invalid Email or Password ❌");
+      toast.error("Invalid Email or Password ❌");
     }
   };
 

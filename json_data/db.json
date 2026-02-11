@@ -60,1743 +60,1211 @@
   ],
   "brands": {
     "tata": [
-  {
-    "name": "Tata Nexon",
-    "model": "TATA-101",
-    "price": "₹6 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Punch",
-    "model": "TATA-102",
-    "price": "₹7 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Altroz",
-    "model": "TATA-103",
-    "price": "₹8 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Tiago",
-    "model": "TATA-104",
-    "price": "₹9 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40530/tiago-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Tigor",
-    "model": "TATA-105",
-    "price": "₹10 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/tigor-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Harrier",
-    "model": "TATA-106",
-    "price": "₹11 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/harrier-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Safari",
-    "model": "TATA-107",
-    "price": "₹12 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/safari-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Curvv",
-    "model": "TATA-108",
-    "price": "₹13 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/155645/curvv-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Nexon EV",
-    "model": "TATA-109",
-    "price": "₹14 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141873/nexon-ev-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Tiago EV",
-    "model": "TATA-110",
-    "price": "₹15 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124839/tiago-ev-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Tigor EV",
-    "model": "TATA-111",
-    "price": "₹16 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124841/tigor-ev-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Punch EV",
-    "model": "TATA-112",
-    "price": "₹17 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/160225/punch-ev-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Altroz Racer",
-    "model": "TATA-113",
-    "price": "₹18 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/164317/altroz-racer-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Harrier Facelift",
-    "model": "TATA-114",
-    "price": "₹19 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139135/harrier-facelift-exterior-right-front-three-quarter.jpeg"
-  },
-  {
-    "name": "Tata Safari Facelift",
-    "model": "TATA-115",
-    "price": "₹20 lakh",
-    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139137/safari-facelift-exterior-right-front-three-quarter.jpeg"
-  }
+      {
+        "name": "Tata Nexon",
+        "model": "TATA-101",
+        "price": "₹6 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Punch",
+        "model": "TATA-102",
+        "price": "₹7 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Altroz",
+        "model": "TATA-103",
+        "price": "₹8 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Tiago",
+        "model": "TATA-104",
+        "price": "₹9 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40530/tiago-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Tigor",
+        "model": "TATA-105",
+        "price": "₹10 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/tigor-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Harrier",
+        "model": "TATA-106",
+        "price": "₹11 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/harrier-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Safari",
+        "model": "TATA-107",
+        "price": "₹12 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/safari-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Curvv",
+        "model": "TATA-108",
+        "price": "₹13 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/155645/curvv-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Nexon EV",
+        "model": "TATA-109",
+        "price": "₹14 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141873/nexon-ev-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Tiago EV",
+        "model": "TATA-110",
+        "price": "₹15 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124839/tiago-ev-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Tigor EV",
+        "model": "TATA-111",
+        "price": "₹16 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124841/tigor-ev-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Punch EV",
+        "model": "TATA-112",
+        "price": "₹17 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/160225/punch-ev-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Altroz Racer",
+        "model": "TATA-113",
+        "price": "₹18 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/164317/altroz-racer-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Harrier Facelift",
+        "model": "TATA-114",
+        "price": "₹19 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139135/harrier-facelift-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "Tata Safari Facelift",
+        "model": "TATA-115",
+        "price": "₹20 lakh",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139137/safari-facelift-exterior-right-front-three-quarter.jpeg"
+      }
     ],
     "mahindra": [
-  {
-    "name": "Mahindra Thar",
-    "model": "MAHINDRA-101",
-    "price": "₹11 lakh",
-    "image": "https://source.unsplash.com/800x500/?mahindra,thar"
-  },
-  {
-    "name": "Mahindra Scorpio Classic",
-    "model": "MAHINDRA-102",
-    "price": "₹13 lakh",
-    "image": "https://source.unsplash.com/800x500/?mahindra,scorpio"
-  },
-  {
-    "name": "Mahindra Scorpio-N",
-    "model": "MAHINDRA-103",
-    "price": "₹15 lakh",
-    "image": "https://source.unsplash.com/800x500/?scorpio-n,suv"
-  },
-  {
-    "name": "Mahindra XUV700",
-    "model": "MAHINDRA-104",
-    "price": "₹14 lakh",
-    "image": "https://source.unsplash.com/800x500/?mahindra,xuv700"
-  },
-  {
-    "name": "Mahindra XUV300",
-    "model": "MAHINDRA-105",
-    "price": "₹8 lakh",
-    "image": "https://source.unsplash.com/800x500/?compact-suv,car"
-  },
-  {
-    "name": "Mahindra Bolero",
-    "model": "MAHINDRA-106",
-    "price": "₹9 lakh",
-    "image": "https://source.unsplash.com/800x500/?mahindra,bolero"
-  },
-  {
-    "name": "Mahindra Bolero Neo",
-    "model": "MAHINDRA-107",
-    "price": "₹10 lakh",
-    "image": "https://source.unsplash.com/800x500/?offroad,suv"
-  },
-  {
-    "name": "Mahindra XUV400 EV",
-    "model": "MAHINDRA-108",
-    "price": "₹15 lakh",
-    "image": "https://source.unsplash.com/800x500/?electric,suv"
-  },
-  {
-    "name": "Mahindra Marazzo",
-    "model": "MAHINDRA-109",
-    "price": "₹14 lakh",
-    "image": "https://source.unsplash.com/800x500/?mpv,car"
-  },
-  {
-    "name": "Mahindra Alturas G4",
-    "model": "MAHINDRA-110",
-    "price": "₹28 lakh",
-    "image": "https://source.unsplash.com/800x500/?luxury,suv"
-  },
-  {
-    "name": "Mahindra KUV100",
-    "model": "MAHINDRA-111",
-    "price": "₹6 lakh",
-    "image": "https://source.unsplash.com/800x500/?small-car,india"
-  },
-  {
-    "name": "Mahindra eKUV100",
-    "model": "MAHINDRA-112",
-    "price": "₹8 lakh",
-    "image": "https://source.unsplash.com/800x500/?electric,car"
-  },
-  {
-    "name": "Mahindra Thar 5-Door",
-    "model": "MAHINDRA-113",
-    "price": "₹16 lakh",
-    "image": "https://source.unsplash.com/800x500/?offroad,jeep"
-  },
-  {
-    "name": "Mahindra XUV.e8",
-    "model": "MAHINDRA-114",
-    "price": "₹30 lakh",
-    "image": "https://source.unsplash.com/800x500/?futuristic,suv"
-  },
-  {
-    "name": "Mahindra BE.05",
-    "model": "MAHINDRA-115",
-    "price": "₹25 lakh",
-    "image": "https://source.unsplash.com/800x500/?concept-car,ev"
-  }
-],
-"hyundai": [
-  { "name": "Hyundai Creta", "model": "HYUNDAI-101", "price": "₹11 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,creta" },
-  { "name": "Hyundai Venue", "model": "HYUNDAI-102", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,venue" },
-  { "name": "Hyundai i20", "model": "HYUNDAI-103", "price": "₹8 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,i20" },
-  { "name": "Hyundai Verna", "model": "HYUNDAI-104", "price": "₹11 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,verna" },
-  { "name": "Hyundai Aura", "model": "HYUNDAI-105", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,aura" },
-  { "name": "Hyundai Exter", "model": "HYUNDAI-106", "price": "₹6 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,exter" },
-  { "name": "Hyundai Alcazar", "model": "HYUNDAI-107", "price": "₹16 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,alcazar" },
-  { "name": "Hyundai Tucson", "model": "HYUNDAI-108", "price": "₹29 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,tucson" },
-  { "name": "Hyundai Kona EV", "model": "HYUNDAI-109", "price": "₹23 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,kona,ev" },
-  { "name": "Hyundai Ioniq 5", "model": "HYUNDAI-110", "price": "₹45 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,ioniq" }
-]
-,
+      {
+        "name": "Mahindra Thar",
+        "model": "MAHINDRA-101",
+        "price": "₹11 lakh",
+        "image": "https://source.unsplash.com/800x500/?mahindra,thar"
+      },
+      {
+        "name": "Mahindra Scorpio Classic",
+        "model": "MAHINDRA-102",
+        "price": "₹13 lakh",
+        "image": "https://source.unsplash.com/800x500/?mahindra,scorpio"
+      },
+      {
+        "name": "Mahindra Scorpio-N",
+        "model": "MAHINDRA-103",
+        "price": "₹15 lakh",
+        "image": "https://source.unsplash.com/800x500/?scorpio-n,suv"
+      },
+      {
+        "name": "Mahindra XUV700",
+        "model": "MAHINDRA-104",
+        "price": "₹14 lakh",
+        "image": "https://source.unsplash.com/800x500/?mahindra,xuv700"
+      },
+      {
+        "name": "Mahindra XUV300",
+        "model": "MAHINDRA-105",
+        "price": "₹8 lakh",
+        "image": "https://source.unsplash.com/800x500/?compact-suv,car"
+      },
+      {
+        "name": "Mahindra Bolero",
+        "model": "MAHINDRA-106",
+        "price": "₹9 lakh",
+        "image": "https://source.unsplash.com/800x500/?mahindra,bolero"
+      },
+      {
+        "name": "Mahindra Bolero Neo",
+        "model": "MAHINDRA-107",
+        "price": "₹10 lakh",
+        "image": "https://source.unsplash.com/800x500/?offroad,suv"
+      },
+      {
+        "name": "Mahindra XUV400 EV",
+        "model": "MAHINDRA-108",
+        "price": "₹15 lakh",
+        "image": "https://source.unsplash.com/800x500/?electric,suv"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "model": "MAHINDRA-109",
+        "price": "₹14 lakh",
+        "image": "https://source.unsplash.com/800x500/?mpv,car"
+      },
+      {
+        "name": "Mahindra Alturas G4",
+        "model": "MAHINDRA-110",
+        "price": "₹28 lakh",
+        "image": "https://source.unsplash.com/800x500/?luxury,suv"
+      },
+      {
+        "name": "Mahindra KUV100",
+        "model": "MAHINDRA-111",
+        "price": "₹6 lakh",
+        "image": "https://source.unsplash.com/800x500/?small-car,india"
+      },
+      {
+        "name": "Mahindra eKUV100",
+        "model": "MAHINDRA-112",
+        "price": "₹8 lakh",
+        "image": "https://source.unsplash.com/800x500/?electric,car"
+      },
+      {
+        "name": "Mahindra Thar 5-Door",
+        "model": "MAHINDRA-113",
+        "price": "₹16 lakh",
+        "image": "https://source.unsplash.com/800x500/?offroad,jeep"
+      },
+      {
+        "name": "Mahindra XUV.e8",
+        "model": "MAHINDRA-114",
+        "price": "₹30 lakh",
+        "image": "https://source.unsplash.com/800x500/?futuristic,suv"
+      },
+      {
+        "name": "Mahindra BE.05",
+        "model": "MAHINDRA-115",
+        "price": "₹25 lakh",
+        "image": "https://source.unsplash.com/800x500/?concept-car,ev"
+      }
+    ],
+    "hyundai": [
+      {
+        "name": "Hyundai Creta",
+        "model": "HYUNDAI-101",
+        "price": "₹11 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,creta"
+      },
+      {
+        "name": "Hyundai Venue",
+        "model": "HYUNDAI-102",
+        "price": "₹7 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,venue"
+      },
+      {
+        "name": "Hyundai i20",
+        "model": "HYUNDAI-103",
+        "price": "₹8 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,i20"
+      },
+      {
+        "name": "Hyundai Verna",
+        "model": "HYUNDAI-104",
+        "price": "₹11 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,verna"
+      },
+      {
+        "name": "Hyundai Aura",
+        "model": "HYUNDAI-105",
+        "price": "₹7 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,aura"
+      },
+      {
+        "name": "Hyundai Exter",
+        "model": "HYUNDAI-106",
+        "price": "₹6 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,exter"
+      },
+      {
+        "name": "Hyundai Alcazar",
+        "model": "HYUNDAI-107",
+        "price": "₹16 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,alcazar"
+      },
+      {
+        "name": "Hyundai Tucson",
+        "model": "HYUNDAI-108",
+        "price": "₹29 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,tucson"
+      },
+      {
+        "name": "Hyundai Kona EV",
+        "model": "HYUNDAI-109",
+        "price": "₹23 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,kona,ev"
+      },
+      {
+        "name": "Hyundai Ioniq 5",
+        "model": "HYUNDAI-110",
+        "price": "₹45 lakh",
+        "image": "https://source.unsplash.com/800x500/?hyundai,ioniq"
+      }
+    ],
     "honda": [
-  { "name": "Honda City", "model": "HON-101", "price": "₹12 lakh", "image": "https://source.unsplash.com/800x500/?honda,city,car" },
-  { "name": "Honda Amaze", "model": "HON-102", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?honda,amaze" },
-  { "name": "Honda Elevate", "model": "HON-103", "price": "₹11 lakh", "image": "https://source.unsplash.com/800x500/?honda,elevate,suv" },
-  { "name": "Honda WR-V", "model": "HON-104", "price": "₹9 lakh", "image": "https://source.unsplash.com/800x500/?honda,wrv" },
-  { "name": "Honda Jazz", "model": "HON-105", "price": "₹8 lakh", "image": "https://source.unsplash.com/800x500/?honda,jazz" },
-  { "name": "Honda Civic", "model": "HON-106", "price": "₹18 lakh", "image": "https://source.unsplash.com/800x500/?honda,civic" },
-  { "name": "Honda CR-V", "model": "HON-107", "price": "₹30 lakh", "image": "https://source.unsplash.com/800x500/?honda,crv" },
-  { "name": "Honda Accord", "model": "HON-108", "price": "₹35 lakh", "image": "https://source.unsplash.com/800x500/?honda,accord" }
-]
-,
+      {
+        "name": "Honda City",
+        "model": "HON-101",
+        "price": "₹12 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,city,car"
+      },
+      {
+        "name": "Honda Amaze",
+        "model": "HON-102",
+        "price": "₹7 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,amaze"
+      },
+      {
+        "name": "Honda Elevate",
+        "model": "HON-103",
+        "price": "₹11 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,elevate,suv"
+      },
+      {
+        "name": "Honda WR-V",
+        "model": "HON-104",
+        "price": "₹9 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,wrv"
+      },
+      {
+        "name": "Honda Jazz",
+        "model": "HON-105",
+        "price": "₹8 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,jazz"
+      },
+      {
+        "name": "Honda Civic",
+        "model": "HON-106",
+        "price": "₹18 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,civic"
+      },
+      {
+        "name": "Honda CR-V",
+        "model": "HON-107",
+        "price": "₹30 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,crv"
+      },
+      {
+        "name": "Honda Accord",
+        "model": "HON-108",
+        "price": "₹35 lakh",
+        "image": "https://source.unsplash.com/800x500/?honda,accord"
+      }
+    ],
     "renault": [
-  { "name": "Renault Kwid", "model": "REN-101", "price": "₹5.5 lakh", "image": "https://source.unsplash.com/800x500/?renault,kwid" },
-  { "name": "Renault Triber", "model": "REN-102", "price": "₹6.5 lakh", "image": "https://source.unsplash.com/800x500/?renault,triber" },
-  { "name": "Renault Kiger", "model": "REN-103", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?renault,kiger" },
-  { "name": "Renault Duster", "model": "REN-104", "price": "₹10 lakh", "image": "https://source.unsplash.com/800x500/?renault,duster,suv" },
-  { "name": "Renault Captur", "model": "REN-105", "price": "₹12 lakh", "image": "https://source.unsplash.com/800x500/?renault,captur" },
-  { "name": "Renault Arkana", "model": "REN-106", "price": "₹20 lakh", "image": "https://source.unsplash.com/800x500/?renault,arkana" }
-],
-  "nissan": [
-    {
-      "name": "Nissan Magnite",
-      "model": "Magnite",
-      "price": "₹6.5 lakh",
-      "image": "https://source.unsplash.com/featured/?nissan,magnite,car"
-    },
-    {
-      "name": "Nissan Kicks",
-      "model": "Kicks",
-      "price": "₹9.5 lakh",
-      "image": "https://source.unsplash.com/featured/?nissan,kicks,car"
-    },
-    {
-      "name": "Nissan Sunny",
-      "model": "Sunny",
-      "price": "₹8 lakh",
-      "image": "https://source.unsplash.com/featured/?nissan,sunny,car"
-    },
-    {
-      "name": "Nissan Micra",
-      "model": "Micra",
-      "price": "₹6 lakh",
-      "image": "https://source.unsplash.com/featured/?nissan,micra,car"
-    },
-    {
-      "name": "Nissan X-Trail",
-      "model": "X-Trail",
-      "price": "₹40 lakh",
-      "image": "https://source.unsplash.com/featured/?nissan,x-trail,car"
-    },
-    {
-      "name": "Nissan GT-R",
-      "model": "GT-R",
-      "price": "₹2.1 crore",
-      "image": "https://source.unsplash.com/featured/?nissan,gtr,car"
-    }
-  ],
+      {
+        "name": "Renault Kwid",
+        "model": "REN-101",
+        "price": "₹5.5 lakh",
+        "image": "https://source.unsplash.com/800x500/?renault,kwid"
+      },
+      {
+        "name": "Renault Triber",
+        "model": "REN-102",
+        "price": "₹6.5 lakh",
+        "image": "https://source.unsplash.com/800x500/?renault,triber"
+      },
+      {
+        "name": "Renault Kiger",
+        "model": "REN-103",
+        "price": "₹7 lakh",
+        "image": "https://source.unsplash.com/800x500/?renault,kiger"
+      },
+      {
+        "name": "Renault Duster",
+        "model": "REN-104",
+        "price": "₹10 lakh",
+        "image": "https://source.unsplash.com/800x500/?renault,duster,suv"
+      },
+      {
+        "name": "Renault Captur",
+        "model": "REN-105",
+        "price": "₹12 lakh",
+        "image": "https://source.unsplash.com/800x500/?renault,captur"
+      },
+      {
+        "name": "Renault Arkana",
+        "model": "REN-106",
+        "price": "₹20 lakh",
+        "image": "https://source.unsplash.com/800x500/?renault,arkana"
+      }
+    ],
+    "nissan": [
+      {
+        "name": "Nissan Magnite",
+        "model": "Magnite",
+        "price": "₹6.5 lakh",
+        "image": "https://source.unsplash.com/featured/?nissan,magnite,car"
+      },
+      {
+        "name": "Nissan Kicks",
+        "model": "Kicks",
+        "price": "₹9.5 lakh",
+        "image": "https://source.unsplash.com/featured/?nissan,kicks,car"
+      },
+      {
+        "name": "Nissan Sunny",
+        "model": "Sunny",
+        "price": "₹8 lakh",
+        "image": "https://source.unsplash.com/featured/?nissan,sunny,car"
+      },
+      {
+        "name": "Nissan Micra",
+        "model": "Micra",
+        "price": "₹6 lakh",
+        "image": "https://source.unsplash.com/featured/?nissan,micra,car"
+      },
+      {
+        "name": "Nissan X-Trail",
+        "model": "X-Trail",
+        "price": "₹40 lakh",
+        "image": "https://source.unsplash.com/featured/?nissan,x-trail,car"
+      },
+      {
+        "name": "Nissan GT-R",
+        "model": "GT-R",
+        "price": "₹2.1 crore",
+        "image": "https://source.unsplash.com/featured/?nissan,gtr,car"
+      }
+    ],
 
-  "mg": [
-    {
-      "name": "MG Hector",
-      "model": "Hector",
-      "price": "₹15 lakh",
-      "image": "https://source.unsplash.com/featured/?mg,hector,car"
-    },
-    {
-      "name": "MG Hector Plus",
-      "model": "Hector Plus",
-      "price": "₹17 lakh",
-      "image": "https://source.unsplash.com/featured/?mg,hector-plus,car"
-    },
-    {
-      "name": "MG Astor",
-      "model": "Astor",
-      "price": "₹10 lakh",
-      "image": "https://source.unsplash.com/featured/?mg,astor,car"
-    },
-    {
-      "name": "MG ZS EV",
-      "model": "ZS EV",
-      "price": "₹23 lakh",
-      "image": "https://source.unsplash.com/featured/?mg,zs-ev,car"
-    },
-    {
-      "name": "MG Gloster",
-      "model": "Gloster",
-      "price": "₹32 lakh",
-      "image": "https://source.unsplash.com/featured/?mg,gloster,car"
-    },
-    {
-      "name": "MG Comet EV",
-      "model": "Comet EV",
-      "price": "₹8 lakh",
-      "image": "https://source.unsplash.com/featured/?mg,comet-ev,car"
-    }
-  ],
+    "mg": [
+      {
+        "name": "MG Hector",
+        "model": "Hector",
+        "price": "₹13.99 - ₹22.89 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/hector-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "MG Hector Plus",
+        "model": "Hector Plus",
+        "price": "₹17.50 - ₹23.68 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "SUV (6/7 Seater)",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130595/hector-plus-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "MG Astor",
+        "model": "Astor",
+        "price": "₹9.98 - ₹18.08 lakh",
+        "fuel": "Petrol",
+        "type": "SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131031/astor-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "MG ZS EV",
+        "model": "ZS EV",
+        "price": "₹18.98 - ₹25.20 lakh",
+        "fuel": "Electric",
+        "type": "Electric SUV",
+        "range": "461 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130607/zs-ev-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "MG Gloster",
+        "model": "Gloster",
+        "price": "₹37.49 - ₹42.32 lakh",
+        "fuel": "Diesel",
+        "type": "Premium SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130599/gloster-exterior-right-front-three-quarter.jpeg"
+      },
+      {
+        "name": "MG Comet EV",
+        "model": "Comet EV",
+        "price": "₹6.99 - ₹9.53 lakh",
+        "fuel": "Electric",
+        "type": "Compact EV",
+        "range": "230 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/comet-ev-exterior-right-front-three-quarter.jpeg"
+      }
+    ],
     "jeep": [
       {
-        "name": "Jeep Car 1",
-        "model": "JEEP-101",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/jeep_car_1.jpg"
+        "name": "Jeep Compass",
+        "model": "Compass",
+        "price": "₹20.69 - ₹32.27 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130625/compass-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Jeep Car 2",
-        "model": "JEEP-102",
-        "price": "₹15.5 lakh",
-        "image": "https://example.com/images/jeep_car_2.jpg"
+        "name": "Jeep Meridian",
+        "model": "Meridian",
+        "price": "₹33.40 - ₹39.46 lakh",
+        "fuel": "Diesel",
+        "type": "7-Seater SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130629/meridian-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Jeep Car 3",
-        "model": "JEEP-103",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/jeep_car_3.jpg"
+        "name": "Jeep Wrangler",
+        "model": "Wrangler",
+        "price": "₹62.65 - ₹66.65 lakh",
+        "fuel": "Petrol",
+        "type": "Off-Road SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130633/wrangler-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Jeep Car 4",
-        "model": "JEEP-104",
-        "price": "₹16.5 lakh",
-        "image": "https://example.com/images/jeep_car_4.jpg"
+        "name": "Jeep Grand Cherokee",
+        "model": "Grand Cherokee",
+        "price": "₹80.50 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130637/grand-cherokee-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Jeep Car 5",
-        "model": "JEEP-105",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/jeep_car_5.jpg"
-      },
-      {
-        "name": "Jeep Car 6",
-        "model": "JEEP-106",
-        "price": "₹17.5 lakh",
-        "image": "https://example.com/images/jeep_car_6.jpg"
-      },
-      {
-        "name": "Jeep Car 7",
-        "model": "JEEP-107",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/jeep_car_7.jpg"
-      },
-      {
-        "name": "Jeep Car 8",
-        "model": "JEEP-108",
-        "price": "₹18.5 lakh",
-        "image": "https://example.com/images/jeep_car_8.jpg"
-      },
-      {
-        "name": "Jeep Car 9",
-        "model": "JEEP-109",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/jeep_car_9.jpg"
-      },
-      {
-        "name": "Jeep Car 10",
-        "model": "JEEP-110",
-        "price": "₹19.5 lakh",
-        "image": "https://example.com/images/jeep_car_10.jpg"
-      },
-      {
-        "name": "Jeep Car 11",
-        "model": "JEEP-111",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/jeep_car_11.jpg"
-      },
-      {
-        "name": "Jeep Car 12",
-        "model": "JEEP-112",
-        "price": "₹20.5 lakh",
-        "image": "https://example.com/images/jeep_car_12.jpg"
+        "name": "Jeep Compass Trailhawk",
+        "model": "Compass Trailhawk",
+        "price": "₹31.32 lakh",
+        "fuel": "Diesel",
+        "type": "Off-Road SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130641/compass-trailhawk-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "mercedesbenz": [
       {
-        "name": "Mercedes-Benz Car 1",
-        "model": "MB-101",
-        "price": "₹65 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_1.jpg"
+        "name": "Mercedes-Benz A-Class Limousine",
+        "model": "A 200",
+        "price": "₹46.05 - ₹48.55 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130743/a-class-limousine-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 2",
-        "model": "MB-102",
-        "price": "₹70 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_2.jpg"
+        "name": "Mercedes-Benz C-Class",
+        "model": "C 200",
+        "price": "₹59.40 - ₹66.25 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130747/c-class-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 3",
-        "model": "MB-103",
-        "price": "₹75 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_3.jpg"
+        "name": "Mercedes-Benz E-Class",
+        "model": "E 200",
+        "price": "₹78.50 - ₹92.50 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Executive Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130751/e-class-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 4",
-        "model": "MB-104",
-        "price": "₹80 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_4.jpg"
+        "name": "Mercedes-Benz GLA",
+        "model": "GLA 200",
+        "price": "₹50.80 - ₹55.80 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130755/gla-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 5",
-        "model": "MB-105",
-        "price": "₹85 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_5.jpg"
+        "name": "Mercedes-Benz GLC",
+        "model": "GLC 300",
+        "price": "₹74.50 - ₹75.50 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130759/glc-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 6",
-        "model": "MB-106",
-        "price": "₹90 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_6.jpg"
+        "name": "Mercedes-Benz GLE",
+        "model": "GLE 300d",
+        "price": "₹96.40 lakh",
+        "fuel": "Diesel",
+        "type": "Premium SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130763/gle-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 7",
-        "model": "MB-107",
-        "price": "₹95 lakh",
-        "image": "https://example.com/images/mercedesbenz_car_7.jpg"
+        "name": "Mercedes-Benz GLS",
+        "model": "GLS 450",
+        "price": "₹1.32 - ₹1.37 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury 7-Seater SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130767/gls-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 8",
-        "model": "MB-108",
-        "price": "₹1 crore",
-        "image": "https://example.com/images/mercedesbenz_car_8.jpg"
+        "name": "Mercedes-Benz S-Class",
+        "model": "S 350d",
+        "price": "₹1.77 - ₹1.86 crore",
+        "fuel": "Diesel",
+        "type": "Flagship Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130771/s-class-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 9",
-        "model": "MB-109",
-        "price": "₹1.1 crore",
-        "image": "https://example.com/images/mercedesbenz_car_9.jpg"
+        "name": "Mercedes-Benz EQB",
+        "model": "EQB 350",
+        "price": "₹74.50 lakh",
+        "fuel": "Electric",
+        "type": "Electric SUV",
+        "range": "423 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130775/eqb-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Mercedes-Benz Car 10",
-        "model": "MB-110",
-        "price": "₹1.2 crore",
-        "image": "https://example.com/images/mercedesbenz_car_10.jpg"
-      },
-      {
-        "name": "Mercedes-Benz Car 11",
-        "model": "MB-111",
-        "price": "₹1.3 crore",
-        "image": "https://example.com/images/mercedesbenz_car_11.jpg"
-      },
-      {
-        "name": "Mercedes-Benz Car 12",
-        "model": "MB-112",
-        "price": "₹1.4 crore",
-        "image": "https://example.com/images/mercedesbenz_car_12.jpg"
+        "name": "Mercedes-Benz EQS",
+        "model": "EQS 580",
+        "price": "₹1.62 crore",
+        "fuel": "Electric",
+        "type": "Luxury Electric Sedan",
+        "range": "857 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130779/eqs-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "volvo": [
       {
-        "name": "Volvo Car 1",
-        "model": "VOL-101",
-        "price": "₹45 lakh",
-        "image": "https://example.com/images/volvo_car_1.jpg"
+        "name": "Volvo XC40 Recharge",
+        "model": "XC40 Recharge",
+        "price": "₹57.90 lakh",
+        "fuel": "Electric",
+        "type": "Electric SUV",
+        "range": "418 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131101/xc40-recharge-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Volvo Car 2",
-        "model": "VOL-102",
-        "price": "₹47 lakh",
-        "image": "https://example.com/images/volvo_car_2.jpg"
+        "name": "Volvo C40 Recharge",
+        "model": "C40 Recharge",
+        "price": "₹62.95 lakh",
+        "fuel": "Electric",
+        "type": "Electric Coupe SUV",
+        "range": "530 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131105/c40-recharge-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Volvo Car 3",
-        "model": "VOL-103",
-        "price": "₹50 lakh",
-        "image": "https://example.com/images/volvo_car_3.jpg"
+        "name": "Volvo XC60",
+        "model": "XC60 B5",
+        "price": "₹68.90 lakh",
+        "fuel": "Petrol (Mild Hybrid)",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131109/xc60-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Volvo Car 4",
-        "model": "VOL-104",
-        "price": "₹52 lakh",
-        "image": "https://example.com/images/volvo_car_4.jpg"
+        "name": "Volvo XC90",
+        "model": "XC90 B6",
+        "price": "₹1.00 crore",
+        "fuel": "Petrol (Mild Hybrid)",
+        "type": "Luxury 7-Seater SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131113/xc90-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Volvo Car 5",
-        "model": "VOL-105",
-        "price": "₹55 lakh",
-        "image": "https://example.com/images/volvo_car_5.jpg"
-      },
-      {
-        "name": "Volvo Car 6",
-        "model": "VOL-106",
-        "price": "₹57 lakh",
-        "image": "https://example.com/images/volvo_car_6.jpg"
-      },
-      {
-        "name": "Volvo Car 7",
-        "model": "VOL-107",
-        "price": "₹60 lakh",
-        "image": "https://example.com/images/volvo_car_7.jpg"
-      },
-      {
-        "name": "Volvo Car 8",
-        "model": "VOL-108",
-        "price": "₹62 lakh",
-        "image": "https://example.com/images/volvo_car_8.jpg"
-      },
-      {
-        "name": "Volvo Car 9",
-        "model": "VOL-109",
-        "price": "₹65 lakh",
-        "image": "https://example.com/images/volvo_car_9.jpg"
-      },
-      {
-        "name": "Volvo Car 10",
-        "model": "VOL-110",
-        "price": "₹67 lakh",
-        "image": "https://example.com/images/volvo_car_10.jpg"
-      },
-      {
-        "name": "Volvo Car 11",
-        "model": "VOL-111",
-        "price": "₹70 lakh",
-        "image": "https://example.com/images/volvo_car_11.jpg"
-      },
-      {
-        "name": "Volvo Car 12",
-        "model": "VOL-112",
-        "price": "₹72 lakh",
-        "image": "https://example.com/images/volvo_car_12.jpg"
+        "name": "Volvo S90",
+        "model": "S90 B5",
+        "price": "₹68.25 lakh",
+        "fuel": "Petrol (Mild Hybrid)",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131117/s90-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "lexus": [
       {
-        "name": "Lexus Car 1",
-        "model": "LEX-101",
-        "price": "₹80 lakh",
-        "image": "https://example.com/images/lexus_car_1.jpg"
+        "name": "Lexus ES 300h",
+        "model": "ES 300h",
+        "price": "₹63.10 - ₹69.70 lakh",
+        "fuel": "Hybrid (Petrol)",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131201/es-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Lexus Car 2",
-        "model": "LEX-102",
-        "price": "₹85 lakh",
-        "image": "https://example.com/images/lexus_car_2.jpg"
+        "name": "Lexus NX 350h",
+        "model": "NX 350h",
+        "price": "₹67.35 - ₹74.24 lakh",
+        "fuel": "Hybrid (Petrol)",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131205/nx-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Lexus Car 3",
-        "model": "LEX-103",
-        "price": "₹90 lakh",
-        "image": "https://example.com/images/lexus_car_3.jpg"
+        "name": "Lexus RX 350h",
+        "model": "RX 350h",
+        "price": "₹95.80 lakh - ₹1.20 crore",
+        "fuel": "Hybrid (Petrol)",
+        "type": "Premium Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131209/rx-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Lexus Car 4",
-        "model": "LEX-104",
-        "price": "₹95 lakh",
-        "image": "https://example.com/images/lexus_car_4.jpg"
+        "name": "Lexus RX 500h F Sport",
+        "model": "RX 500h F Sport",
+        "price": "₹1.18 crore",
+        "fuel": "Hybrid (Petrol)",
+        "type": "Performance Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131213/rx-f-sport-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Lexus Car 5",
-        "model": "LEX-105",
-        "price": "₹1 crore",
-        "image": "https://example.com/images/lexus_car_5.jpg"
+        "name": "Lexus LX 500d",
+        "model": "LX 500d",
+        "price": "₹2.83 crore",
+        "fuel": "Diesel",
+        "type": "Flagship Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131217/lx-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Lexus Car 6",
-        "model": "LEX-106",
-        "price": "₹1.05 crore",
-        "image": "https://example.com/images/lexus_car_6.jpg"
-      },
-      {
-        "name": "Lexus Car 7",
-        "model": "LEX-107",
-        "price": "₹1.1 crore",
-        "image": "https://example.com/images/lexus_car_7.jpg"
-      },
-      {
-        "name": "Lexus Car 8",
-        "model": "LEX-108",
-        "price": "₹1.15 crore",
-        "image": "https://example.com/images/lexus_car_8.jpg"
-      },
-      {
-        "name": "Lexus Car 9",
-        "model": "LEX-109",
-        "price": "₹1.2 crore",
-        "image": "https://example.com/images/lexus_car_9.jpg"
-      },
-      {
-        "name": "Lexus Car 10",
-        "model": "LEX-110",
-        "price": "₹1.25 crore",
-        "image": "https://example.com/images/lexus_car_10.jpg"
-      },
-      {
-        "name": "Lexus Car 11",
-        "model": "LEX-111",
-        "price": "₹1.3 crore",
-        "image": "https://example.com/images/lexus_car_11.jpg"
-      },
-      {
-        "name": "Lexus Car 12",
-        "model": "LEX-112",
-        "price": "₹1.35 crore",
-        "image": "https://example.com/images/lexus_car_12.jpg"
+        "name": "Lexus LM 350h",
+        "model": "LM 350h",
+        "price": "₹2.10 - ₹2.62 crore",
+        "fuel": "Hybrid (Petrol)",
+        "type": "Ultra Luxury MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131221/lm-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "porsche": [
       {
-        "name": "Porsche Car 1",
-        "model": "POR-101",
-        "price": "₹1.2 crore",
-        "image": "https://example.com/images/porsche_car_1.jpg"
+        "name": "Porsche Macan",
+        "model": "Macan",
+        "price": "₹96.05 lakh - ₹1.53 crore",
+        "fuel": "Petrol",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131301/macan-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Porsche Car 2",
-        "model": "POR-102",
-        "price": "₹1.3 crore",
-        "image": "https://example.com/images/porsche_car_2.jpg"
+        "name": "Porsche Cayenne",
+        "model": "Cayenne",
+        "price": "₹1.36 - ₹2.00 crore",
+        "fuel": "Petrol / Hybrid",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131305/cayenne-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Porsche Car 3",
-        "model": "POR-103",
-        "price": "₹1.4 crore",
-        "image": "https://example.com/images/porsche_car_3.jpg"
+        "name": "Porsche Panamera",
+        "model": "Panamera",
+        "price": "₹1.68 - ₹2.34 crore",
+        "fuel": "Petrol / Hybrid",
+        "type": "Luxury Sports Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131309/panamera-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Porsche Car 4",
-        "model": "POR-104",
-        "price": "₹1.5 crore",
-        "image": "https://example.com/images/porsche_car_4.jpg"
+        "name": "Porsche 718 Cayman",
+        "model": "718 Cayman",
+        "price": "₹1.48 - ₹2.74 crore",
+        "fuel": "Petrol",
+        "type": "Sports Coupe",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131313/718-cayman-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Porsche Car 5",
-        "model": "POR-105",
-        "price": "₹1.6 crore",
-        "image": "https://example.com/images/porsche_car_5.jpg"
+        "name": "Porsche 718 Boxster",
+        "model": "718 Boxster",
+        "price": "₹1.52 - ₹2.74 crore",
+        "fuel": "Petrol",
+        "type": "Convertible Sports Car",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131317/718-boxster-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Porsche Car 6",
-        "model": "POR-106",
-        "price": "₹1.7 crore",
-        "image": "https://example.com/images/porsche_car_6.jpg"
+        "name": "Porsche 911",
+        "model": "911 Carrera",
+        "price": "₹1.99 - ₹4.26 crore",
+        "fuel": "Petrol",
+        "type": "Iconic Sports Car",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131321/911-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Porsche Car 7",
-        "model": "POR-107",
-        "price": "₹1.8 crore",
-        "image": "https://example.com/images/porsche_car_7.jpg"
-      },
-      {
-        "name": "Porsche Car 8",
-        "model": "POR-108",
-        "price": "₹1.9 crore",
-        "image": "https://example.com/images/porsche_car_8.jpg"
-      },
-      {
-        "name": "Porsche Car 9",
-        "model": "POR-109",
-        "price": "₹2 crore",
-        "image": "https://example.com/images/porsche_car_9.jpg"
-      },
-      {
-        "name": "Porsche Car 10",
-        "model": "POR-110",
-        "price": "₹2.1 crore",
-        "image": "https://example.com/images/porsche_car_10.jpg"
-      },
-      {
-        "name": "Porsche Car 11",
-        "model": "POR-111",
-        "price": "₹2.2 crore",
-        "image": "https://example.com/images/porsche_car_11.jpg"
-      },
-      {
-        "name": "Porsche Car 12",
-        "model": "POR-112",
-        "price": "₹2.3 crore",
-        "image": "https://example.com/images/porsche_car_12.jpg"
+        "name": "Porsche Taycan",
+        "model": "Taycan",
+        "price": "₹1.61 - ₹2.44 crore",
+        "fuel": "Electric",
+        "type": "Electric Sports Sedan",
+        "range": "484 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131325/taycan-exterior-right-front-three-quarter.jpeg"
       }
     ],
-    "Maruti_Suzuki": [
+    "marutisuzuki": [
+      {
+        "name": "Maruti Suzuki Alto K10",
+        "model": "Alto K10",
+        "price": "₹3.99 - ₹5.96 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Hatchback",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131401/alto-k10-exterior-right-front-three-quarter.jpeg"
+      },
       {
         "name": "Maruti Suzuki Swift",
-        "model": "MS-101",
-        "price": "₹5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_swift.jpg"
+        "model": "Swift",
+        "price": "₹6.49 - ₹9.64 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Hatchback",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131405/swift-exterior-right-front-three-quarter.jpeg"
       },
       {
         "name": "Maruti Suzuki Baleno",
-        "model": "MS-102",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/maruti_suzuki_baleno.jpg"
+        "model": "Baleno",
+        "price": "₹6.66 - ₹9.88 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Premium Hatchback",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131409/baleno-exterior-right-front-three-quarter.jpeg"
       },
       {
         "name": "Maruti Suzuki Dzire",
-        "model": "MS-103",
-        "price": "₹6.5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_dzire.jpg"
+        "model": "Dzire",
+        "price": "₹6.84 - ₹10.19 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131413/dzire-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Maruti Suzuki Vitara Brezza",
-        "model": "MS-104",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/maruti_suzuki_brezza.jpg"
+        "name": "Maruti Suzuki Brezza",
+        "model": "Brezza",
+        "price": "₹8.34 - ₹14.14 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131417/brezza-exterior-right-front-three-quarter.jpeg"
       },
       {
         "name": "Maruti Suzuki Ertiga",
-        "model": "MS-105",
-        "price": "₹7.5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_ertiga.jpg"
-      },
-      {
-        "name": "Maruti Suzuki Celerio",
-        "model": "MS-106",
-        "price": "₹4.5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_celerio.jpg"
-      },
-      {
-        "name": "Maruti Suzuki S-Cross",
-        "model": "MS-107",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/maruti_suzuki_scross.jpg"
-      },
-      {
-        "name": "Maruti Suzuki Alto",
-        "model": "MS-108",
-        "price": "₹3.5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_alto.jpg"
-      },
-      {
-        "name": "Maruti Suzuki Ignis",
-        "model": "MS-109",
-        "price": "₹5.5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_ignis.jpg"
+        "model": "Ertiga",
+        "price": "₹8.69 - ₹13.03 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131421/ertiga-exterior-right-front-three-quarter.jpeg"
       },
       {
         "name": "Maruti Suzuki XL6",
-        "model": "MS-110",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/maruti_suzuki_xl6.jpg"
+        "model": "XL6",
+        "price": "₹11.61 - ₹14.77 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Premium MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131425/xl6-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Maruti Suzuki Ciaz",
-        "model": "MS-111",
-        "price": "₹8.5 lakh",
-        "image": "https://example.com/images/maruti_suzuki_ciaz.jpg"
-      },
-      {
-        "name": "Maruti Suzuki Brezza Smart Hybrid",
-        "model": "MS-112",
-        "price": "₹7.2 lakh",
-        "image": "https://example.com/images/maruti_suzuki_brezza_hybrid.jpg"
+        "name": "Maruti Suzuki Grand Vitara",
+        "model": "Grand Vitara",
+        "price": "₹10.80 - ₹20.09 lakh",
+        "fuel": "Petrol / Hybrid / CNG",
+        "type": "Mid-Size SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131429/grand-vitara-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "landrover": [
       {
-        "name": "Land Rover Car 1",
-        "model": "LR-101",
-        "price": "₹1.1 crore",
-        "image": "https://example.com/images/landrover_car_1.jpg"
+        "name": "Range Rover Evoque",
+        "model": "Evoque",
+        "price": "₹67.90 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131501/evoque-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land Rover Car 2",
-        "model": "LR-102",
-        "price": "₹1.15 crore",
-        "image": "https://example.com/images/landrover_car_2.jpg"
+        "name": "Discovery Sport",
+        "model": "Discovery Sport",
+        "price": "₹67.90 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131505/discovery-sport-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land Rover Car 3",
-        "model": "LR-103",
-        "price": "₹1.2 crore",
-        "image": "https://example.com/images/landrover_car_3.jpg"
+        "name": "Range Rover Velar",
+        "model": "Velar",
+        "price": "₹87.90 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Premium SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131509/velar-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land Rover Car 4",
-        "model": "LR-104",
-        "price": "₹1.25 crore",
-        "image": "https://example.com/images/landrover_car_4.jpg"
+        "name": "Range Rover Sport",
+        "model": "Range Rover Sport",
+        "price": "₹1.64 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Performance SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131513/range-rover-sport-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land Rover Car 5",
-        "model": "LR-105",
-        "price": "₹1.3 crore",
-        "image": "https://example.com/images/landrover_car_5.jpg"
+        "name": "Range Rover",
+        "model": "Range Rover",
+        "price": "₹2.39 - ₹4.17 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Flagship Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131517/range-rover-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land Rover Car 6",
-        "model": "LR-106",
-        "price": "₹1.35 crore",
-        "image": "https://example.com/images/landrover_car_6.jpg"
-      },
-      {
-        "name": "Land Rover Car 7",
-        "model": "LR-107",
-        "price": "₹1.4 crore",
-        "image": "https://example.com/images/landrover_car_7.jpg"
-      },
-      {
-        "name": "Land Rover Car 8",
-        "model": "LR-108",
-        "price": "₹1.45 crore",
-        "image": "https://example.com/images/landrover_car_8.jpg"
-      },
-      {
-        "name": "Land Rover Car 9",
-        "model": "LR-109",
-        "price": "₹1.5 crore",
-        "image": "https://example.com/images/landrover_car_9.jpg"
-      },
-      {
-        "name": "Land Rover Car 10",
-        "model": "LR-110",
-        "price": "₹1.55 crore",
-        "image": "https://example.com/images/landrover_car_10.jpg"
-      },
-      {
-        "name": "Land Rover Car 11",
-        "model": "LR-111",
-        "price": "₹1.6 crore",
-        "image": "https://example.com/images/landrover_car_11.jpg"
-      },
-      {
-        "name": "Land Rover Car 12",
-        "model": "LR-112",
-        "price": "₹1.65 crore",
-        "image": "https://example.com/images/landrover_car_12.jpg"
+        "name": "Land Rover Defender",
+        "model": "Defender",
+        "price": "₹97 lakh - ₹2.85 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Off-Road Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131521/defender-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "toyota": [
       {
-        "name": "Toyota Car 1",
-        "model": "TOYOTA-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/toyota_car_1.jpg"
+        "name": "Toyota Glanza",
+        "model": "Glanza",
+        "price": "₹6.86 - ₹10.00 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Hatchback",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/glanza-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 2",
-        "model": "TOYOTA-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/toyota_car_2.jpg"
+        "name": "Toyota Urban Cruiser Taisor",
+        "model": "Taisor",
+        "price": "₹7.74 - ₹13.04 lakh",
+        "fuel": "Petrol / CNG",
+        "type": "Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/152417/taisor-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 3",
-        "model": "TOYOTA-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/toyota_car_3.jpg"
+        "name": "Toyota Urban Cruiser Hyryder",
+        "model": "Hyryder",
+        "price": "₹11.14 - ₹20.19 lakh",
+        "fuel": "Petrol / Hybrid / CNG",
+        "type": "Mid-size SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/hyryder-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 4",
-        "model": "TOYOTA-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/toyota_car_4.jpg"
+        "name": "Toyota Innova Crysta",
+        "model": "Innova Crysta",
+        "price": "₹19.99 - ₹26.82 lakh",
+        "fuel": "Diesel",
+        "type": "MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/innova-crysta-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 5",
-        "model": "TOYOTA-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/toyota_car_5.jpg"
+        "name": "Toyota Innova Hycross",
+        "model": "Innova Hycross",
+        "price": "₹19.77 - ₹30.98 lakh",
+        "fuel": "Petrol / Hybrid",
+        "type": "Premium MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131353/innova-hycross-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 6",
-        "model": "TOYOTA-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/toyota_car_6.jpg"
+        "name": "Toyota Fortuner",
+        "model": "Fortuner",
+        "price": "₹33.43 - ₹51.44 lakh",
+        "fuel": "Diesel / Petrol",
+        "type": "Full-size SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/fortuner-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 7",
-        "model": "TOYOTA-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/toyota_car_7.jpg"
+        "name": "Toyota Fortuner Legender",
+        "model": "Fortuner Legender",
+        "price": "₹43.66 - ₹47.64 lakh",
+        "fuel": "Diesel",
+        "type": "Premium SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/fortuner-legender-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 8",
-        "model": "TOYOTA-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/toyota_car_8.jpg"
+        "name": "Toyota Camry",
+        "model": "Camry",
+        "price": "₹46.17 lakh",
+        "fuel": "Hybrid",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/camry-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 9",
-        "model": "TOYOTA-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/toyota_car_9.jpg"
+        "name": "Toyota Vellfire",
+        "model": "Vellfire",
+        "price": "₹1.22 - ₹1.32 crore",
+        "fuel": "Hybrid",
+        "type": "Luxury MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/vellfire-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Toyota Car 10",
-        "model": "TOYOTA-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/toyota_car_10.jpg"
-      },
-      {
-        "name": "Toyota Car 11",
-        "model": "TOYOTA-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/toyota_car_11.jpg"
-      },
-      {
-        "name": "Toyota Car 12",
-        "model": "TOYOTA-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/toyota_car_12.jpg"
-      },
-      {
-        "name": "Toyota Car 13",
-        "model": "TOYOTA-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/toyota_car_13.jpg"
-      },
-      {
-        "name": "Toyota Car 14",
-        "model": "TOYOTA-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/toyota_car_14.jpg"
-      },
-      {
-        "name": "Toyota Car 15",
-        "model": "TOYOTA-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/toyota_car_15.jpg"
-      },
-      {
-        "name": "Toyota Car 16",
-        "model": "TOYOTA-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/toyota_car_16.jpg"
-      },
-      {
-        "name": "Toyota Car 17",
-        "model": "TOYOTA-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/toyota_car_17.jpg"
-      },
-      {
-        "name": "Toyota Car 18",
-        "model": "TOYOTA-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/toyota_car_18.jpg"
-      },
-      {
-        "name": "Toyota Car 19",
-        "model": "TOYOTA-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/toyota_car_19.jpg"
-      },
-      {
-        "name": "Toyota Car 20",
-        "model": "TOYOTA-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/toyota_car_20.jpg"
+        "name": "Toyota Hilux",
+        "model": "Hilux",
+        "price": "₹30.40 - ₹37.90 lakh",
+        "fuel": "Diesel",
+        "type": "Pickup Truck",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/hilux-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "kia": [
       {
-        "name": "Kia Car 1",
-        "model": "KIA-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/kia_car_1.jpg"
+        "name": "Kia Sonet",
+        "model": "Sonet",
+        "price": "₹7.99 - ₹15.75 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131829/sonet-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Kia Car 2",
-        "model": "KIA-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/kia_car_2.jpg"
+        "name": "Kia Seltos",
+        "model": "Seltos",
+        "price": "₹10.90 - ₹20.35 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Mid-size SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131833/seltos-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Kia Car 3",
-        "model": "KIA-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/kia_car_3.jpg"
+        "name": "Kia Carens",
+        "model": "Carens",
+        "price": "₹10.52 - ₹19.94 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131837/carens-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Kia Car 4",
-        "model": "KIA-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/kia_car_4.jpg"
+        "name": "Kia Carnival",
+        "model": "Carnival",
+        "price": "₹63.90 lakh",
+        "fuel": "Diesel",
+        "type": "Luxury MPV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/152401/carnival-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Kia Car 5",
-        "model": "KIA-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/kia_car_5.jpg"
-      },
-      {
-        "name": "Kia Car 6",
-        "model": "KIA-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/kia_car_6.jpg"
-      },
-      {
-        "name": "Kia Car 7",
-        "model": "KIA-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/kia_car_7.jpg"
-      },
-      {
-        "name": "Kia Car 8",
-        "model": "KIA-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/kia_car_8.jpg"
-      },
-      {
-        "name": "Kia Car 9",
-        "model": "KIA-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/kia_car_9.jpg"
-      },
-      {
-        "name": "Kia Car 10",
-        "model": "KIA-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/kia_car_10.jpg"
-      },
-      {
-        "name": "Kia Car 11",
-        "model": "KIA-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/kia_car_11.jpg"
-      },
-      {
-        "name": "Kia Car 12",
-        "model": "KIA-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/kia_car_12.jpg"
-      },
-      {
-        "name": "Kia Car 13",
-        "model": "KIA-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/kia_car_13.jpg"
-      },
-      {
-        "name": "Kia Car 14",
-        "model": "KIA-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/kia_car_14.jpg"
-      },
-      {
-        "name": "Kia Car 15",
-        "model": "KIA-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/kia_car_15.jpg"
-      },
-      {
-        "name": "Kia Car 16",
-        "model": "KIA-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/kia_car_16.jpg"
-      },
-      {
-        "name": "Kia Car 17",
-        "model": "KIA-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/kia_car_17.jpg"
-      },
-      {
-        "name": "Kia Car 18",
-        "model": "KIA-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/kia_car_18.jpg"
-      },
-      {
-        "name": "Kia Car 19",
-        "model": "KIA-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/kia_car_19.jpg"
-      },
-      {
-        "name": "Kia Car 20",
-        "model": "KIA-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/kia_car_20.jpg"
+        "name": "Kia EV6",
+        "model": "EV6",
+        "price": "₹60.95 - ₹65.95 lakh",
+        "fuel": "Electric",
+        "type": "Electric SUV",
+        "range": "708 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131841/ev6-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "bmw": [
       {
-        "name": "Bmw Car 1",
-        "model": "BMW-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/bmw_car_1.jpg"
+        "name": "BMW 2 Series Gran Coupe",
+        "model": "2 Series",
+        "price": "₹43.90 - ₹46.90 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131845/2-series-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 2",
-        "model": "BMW-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/bmw_car_2.jpg"
+        "name": "BMW 3 Series",
+        "model": "3 Series",
+        "price": "₹72.90 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131849/3-series-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 3",
-        "model": "BMW-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/bmw_car_3.jpg"
+        "name": "BMW 5 Series",
+        "model": "5 Series",
+        "price": "₹68.90 lakh",
+        "fuel": "Petrol",
+        "type": "Executive Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131853/5-series-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 4",
-        "model": "BMW-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/bmw_car_4.jpg"
+        "name": "BMW X1",
+        "model": "X1",
+        "price": "₹49.50 - ₹52.50 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131857/x1-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 5",
-        "model": "BMW-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/bmw_car_5.jpg"
+        "name": "BMW X3",
+        "model": "X3",
+        "price": "₹68.50 - ₹87.70 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131861/x3-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 6",
-        "model": "BMW-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/bmw_car_6.jpg"
+        "name": "BMW X5",
+        "model": "X5",
+        "price": "₹96.00 lakh - ₹1.09 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131865/x5-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 7",
-        "model": "BMW-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/bmw_car_7.jpg"
+        "name": "BMW i4",
+        "model": "i4",
+        "price": "₹72.50 lakh",
+        "fuel": "Electric",
+        "type": "Electric Luxury Sedan",
+        "range": "590 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131869/i4-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Bmw Car 8",
-        "model": "BMW-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/bmw_car_8.jpg"
-      },
-      {
-        "name": "Bmw Car 9",
-        "model": "BMW-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/bmw_car_9.jpg"
-      },
-      {
-        "name": "Bmw Car 10",
-        "model": "BMW-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/bmw_car_10.jpg"
-      },
-      {
-        "name": "Bmw Car 11",
-        "model": "BMW-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/bmw_car_11.jpg"
-      },
-      {
-        "name": "Bmw Car 12",
-        "model": "BMW-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/bmw_car_12.jpg"
-      },
-      {
-        "name": "Bmw Car 13",
-        "model": "BMW-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/bmw_car_13.jpg"
-      },
-      {
-        "name": "Bmw Car 14",
-        "model": "BMW-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/bmw_car_14.jpg"
-      },
-      {
-        "name": "Bmw Car 15",
-        "model": "BMW-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/bmw_car_15.jpg"
-      },
-      {
-        "name": "Bmw Car 16",
-        "model": "BMW-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/bmw_car_16.jpg"
-      },
-      {
-        "name": "Bmw Car 17",
-        "model": "BMW-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/bmw_car_17.jpg"
-      },
-      {
-        "name": "Bmw Car 18",
-        "model": "BMW-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/bmw_car_18.jpg"
-      },
-      {
-        "name": "Bmw Car 19",
-        "model": "BMW-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/bmw_car_19.jpg"
-      },
-      {
-        "name": "Bmw Car 20",
-        "model": "BMW-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/bmw_car_20.jpg"
+        "name": "BMW iX",
+        "model": "iX",
+        "price": "₹1.40 crore",
+        "fuel": "Electric",
+        "type": "Electric Luxury SUV",
+        "range": "635 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131873/ix-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "skoda": [
       {
-        "name": "Skoda Car 1",
-        "model": "SKODA-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/skoda_car_1.jpg"
+        "name": "Skoda Kushaq",
+        "model": "Kushaq",
+        "price": "₹10.89 - ₹18.79 lakh",
+        "fuel": "Petrol",
+        "type": "Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131875/kushaq-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Skoda Car 2",
-        "model": "SKODA-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/skoda_car_2.jpg"
+        "name": "Skoda Slavia",
+        "model": "Slavia",
+        "price": "₹10.69 - ₹18.69 lakh",
+        "fuel": "Petrol",
+        "type": "Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131879/slavia-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Skoda Car 3",
-        "model": "SKODA-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/skoda_car_3.jpg"
+        "name": "Skoda Kodiaq",
+        "model": "Kodiaq",
+        "price": "₹39.99 lakh",
+        "fuel": "Petrol",
+        "type": "Premium SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131883/kodiaq-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Skoda Car 4",
-        "model": "SKODA-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/skoda_car_4.jpg"
-      },
-      {
-        "name": "Skoda Car 5",
-        "model": "SKODA-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/skoda_car_5.jpg"
-      },
-      {
-        "name": "Skoda Car 6",
-        "model": "SKODA-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/skoda_car_6.jpg"
-      },
-      {
-        "name": "Skoda Car 7",
-        "model": "SKODA-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/skoda_car_7.jpg"
-      },
-      {
-        "name": "Skoda Car 8",
-        "model": "SKODA-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/skoda_car_8.jpg"
-      },
-      {
-        "name": "Skoda Car 9",
-        "model": "SKODA-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/skoda_car_9.jpg"
-      },
-      {
-        "name": "Skoda Car 10",
-        "model": "SKODA-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/skoda_car_10.jpg"
-      },
-      {
-        "name": "Skoda Car 11",
-        "model": "SKODA-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/skoda_car_11.jpg"
-      },
-      {
-        "name": "Skoda Car 12",
-        "model": "SKODA-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/skoda_car_12.jpg"
-      },
-      {
-        "name": "Skoda Car 13",
-        "model": "SKODA-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/skoda_car_13.jpg"
-      },
-      {
-        "name": "Skoda Car 14",
-        "model": "SKODA-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/skoda_car_14.jpg"
-      },
-      {
-        "name": "Skoda Car 15",
-        "model": "SKODA-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/skoda_car_15.jpg"
-      },
-      {
-        "name": "Skoda Car 16",
-        "model": "SKODA-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/skoda_car_16.jpg"
-      },
-      {
-        "name": "Skoda Car 17",
-        "model": "SKODA-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/skoda_car_17.jpg"
-      },
-      {
-        "name": "Skoda Car 18",
-        "model": "SKODA-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/skoda_car_18.jpg"
-      },
-      {
-        "name": "Skoda Car 19",
-        "model": "SKODA-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/skoda_car_19.jpg"
-      },
-      {
-        "name": "Skoda Car 20",
-        "model": "SKODA-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/skoda_car_20.jpg"
+        "name": "Skoda Superb",
+        "model": "Superb",
+        "price": "₹54.00 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131887/superb-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "land_rover": [
       {
-        "name": "Land_rover Car 1",
-        "model": "LAND_ROVER-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/land_rover_car_1.jpg"
+        "name": "Land Rover Defender",
+        "model": "Defender",
+        "price": "₹97.00 lakh - ₹2.85 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Off-road SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131891/defender-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land_rover Car 2",
-        "model": "LAND_ROVER-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/land_rover_car_2.jpg"
+        "name": "Range Rover Evoque",
+        "model": "Evoque",
+        "price": "₹67.90 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131895/evoque-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land_rover Car 3",
-        "model": "LAND_ROVER-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/land_rover_car_3.jpg"
+        "name": "Range Rover Velar",
+        "model": "Velar",
+        "price": "₹87.90 lakh",
+        "fuel": "Petrol / Diesel",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131899/velar-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land_rover Car 4",
-        "model": "LAND_ROVER-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/land_rover_car_4.jpg"
+        "name": "Range Rover Sport",
+        "model": "Range Rover Sport",
+        "price": "₹1.40 - ₹1.84 crore",
+        "fuel": "Petrol / Diesel",
+        "type": "Performance Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131903/range-rover-sport-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Land_rover Car 5",
-        "model": "LAND_ROVER-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/land_rover_car_5.jpg"
-      },
-      {
-        "name": "Land_rover Car 6",
-        "model": "LAND_ROVER-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/land_rover_car_6.jpg"
-      },
-      {
-        "name": "Land_rover Car 7",
-        "model": "LAND_ROVER-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/land_rover_car_7.jpg"
-      },
-      {
-        "name": "Land_rover Car 8",
-        "model": "LAND_ROVER-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/land_rover_car_8.jpg"
-      },
-      {
-        "name": "Land_rover Car 9",
-        "model": "LAND_ROVER-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/land_rover_car_9.jpg"
-      },
-      {
-        "name": "Land_rover Car 10",
-        "model": "LAND_ROVER-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/land_rover_car_10.jpg"
-      },
-      {
-        "name": "Land_rover Car 11",
-        "model": "LAND_ROVER-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/land_rover_car_11.jpg"
-      },
-      {
-        "name": "Land_rover Car 12",
-        "model": "LAND_ROVER-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/land_rover_car_12.jpg"
-      },
-      {
-        "name": "Land_rover Car 13",
-        "model": "LAND_ROVER-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/land_rover_car_13.jpg"
-      },
-      {
-        "name": "Land_rover Car 14",
-        "model": "LAND_ROVER-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/land_rover_car_14.jpg"
-      },
-      {
-        "name": "Land_rover Car 15",
-        "model": "LAND_ROVER-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/land_rover_car_15.jpg"
-      },
-      {
-        "name": "Land_rover Car 16",
-        "model": "LAND_ROVER-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/land_rover_car_16.jpg"
-      },
-      {
-        "name": "Land_rover Car 17",
-        "model": "LAND_ROVER-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/land_rover_car_17.jpg"
-      },
-      {
-        "name": "Land_rover Car 18",
-        "model": "LAND_ROVER-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/land_rover_car_18.jpg"
-      },
-      {
-        "name": "Land_rover Car 19",
-        "model": "LAND_ROVER-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/land_rover_car_19.jpg"
-      },
-      {
-        "name": "Land_rover Car 20",
-        "model": "LAND_ROVER-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/land_rover_car_20.jpg"
+        "name": "Range Rover",
+        "model": "Range Rover",
+        "price": "₹2.39 - ₹4.17 crore",
+        "fuel": "Petrol / Diesel / Hybrid",
+        "type": "Flagship Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131907/range-rover-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "audi": [
       {
-        "name": "Audi Car 1",
-        "model": "AUDI-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/audi_car_1.jpg"
+        "name": "Audi A4",
+        "model": "A4",
+        "price": "₹45.34 - ₹53.50 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131909/a4-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 2",
-        "model": "AUDI-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/audi_car_2.jpg"
+        "name": "Audi A6",
+        "model": "A6",
+        "price": "₹64.41 - ₹70.79 lakh",
+        "fuel": "Petrol",
+        "type": "Executive Luxury Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131913/a6-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 3",
-        "model": "AUDI-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/audi_car_3.jpg"
+        "name": "Audi Q3",
+        "model": "Q3",
+        "price": "₹44.99 - ₹54.65 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury Compact SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131917/q3-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 4",
-        "model": "AUDI-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/audi_car_4.jpg"
+        "name": "Audi Q3 Sportback",
+        "model": "Q3 Sportback",
+        "price": "₹55.99 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury Coupe SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131921/q3-sportback-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 5",
-        "model": "AUDI-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/audi_car_5.jpg"
+        "name": "Audi Q5",
+        "model": "Q5",
+        "price": "₹65.18 - ₹70.45 lakh",
+        "fuel": "Petrol",
+        "type": "Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131925/q5-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 6",
-        "model": "AUDI-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/audi_car_6.jpg"
+        "name": "Audi Q7",
+        "model": "Q7",
+        "price": "₹88.70 - ₹97.85 lakh",
+        "fuel": "Petrol",
+        "type": "Full-size Luxury SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131929/q7-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 7",
-        "model": "AUDI-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/audi_car_7.jpg"
+        "name": "Audi Q8",
+        "model": "Q8",
+        "price": "₹1.07 crore",
+        "fuel": "Petrol",
+        "type": "Luxury Coupe SUV",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131933/q8-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 8",
-        "model": "AUDI-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/audi_car_8.jpg"
+        "name": "Audi e-tron GT",
+        "model": "e-tron GT",
+        "price": "₹1.70 crore",
+        "fuel": "Electric",
+        "type": "Electric Sports Sedan",
+        "range": "500 km",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131937/e-tron-gt-exterior-right-front-three-quarter.jpeg"
       },
       {
-        "name": "Audi Car 9",
-        "model": "AUDI-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/audi_car_9.jpg"
-      },
-      {
-        "name": "Audi Car 10",
-        "model": "AUDI-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/audi_car_10.jpg"
-      },
-      {
-        "name": "Audi Car 11",
-        "model": "AUDI-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/audi_car_11.jpg"
-      },
-      {
-        "name": "Audi Car 12",
-        "model": "AUDI-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/audi_car_12.jpg"
-      },
-      {
-        "name": "Audi Car 13",
-        "model": "AUDI-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/audi_car_13.jpg"
-      },
-      {
-        "name": "Audi Car 14",
-        "model": "AUDI-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/audi_car_14.jpg"
-      },
-      {
-        "name": "Audi Car 15",
-        "model": "AUDI-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/audi_car_15.jpg"
-      },
-      {
-        "name": "Audi Car 16",
-        "model": "AUDI-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/audi_car_16.jpg"
-      },
-      {
-        "name": "Audi Car 17",
-        "model": "AUDI-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/audi_car_17.jpg"
-      },
-      {
-        "name": "Audi Car 18",
-        "model": "AUDI-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/audi_car_18.jpg"
-      },
-      {
-        "name": "Audi Car 19",
-        "model": "AUDI-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/audi_car_19.jpg"
-      },
-      {
-        "name": "Audi Car 20",
-        "model": "AUDI-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/audi_car_20.jpg"
+        "name": "Audi RS5",
+        "model": "RS5 Sportback",
+        "price": "₹1.13 crore",
+        "fuel": "Petrol",
+        "type": "Performance Sports Sedan",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131941/rs5-exterior-right-front-three-quarter.jpeg"
       }
     ],
     "volkswagen": [
-      {
-        "name": "Volkswagen Car 1",
-        "model": "VW-101",
-        "price": "₹5.5 lakh",
-        "image": "https://example.com/images/volkswagen_car_1.jpg"
-      },
-      {
-        "name": "Volkswagen Car 2",
-        "model": "VW-102",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/volkswagen_car_2.jpg"
-      },
-      {
-        "name": "Volkswagen Car 3",
-        "model": "VW-103",
-        "price": "₹6.5 lakh",
-        "image": "https://example.com/images/volkswagen_car_3.jpg"
-      },
-      {
-        "name": "Volkswagen Car 4",
-        "model": "VW-104",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/volkswagen_car_4.jpg"
-      },
-      {
-        "name": "Volkswagen Car 5",
-        "model": "VW-105",
-        "price": "₹7.5 lakh",
-        "image": "https://example.com/images/volkswagen_car_5.jpg"
-      },
-      {
-        "name": "Volkswagen Car 6",
-        "model": "VW-106",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/volkswagen_car_6.jpg"
-      },
-      {
-        "name": "Volkswagen Car 7",
-        "model": "VW-107",
-        "price": "₹8.5 lakh",
-        "image": "https://example.com/images/volkswagen_car_7.jpg"
-      },
-      {
-        "name": "Volkswagen Car 8",
-        "model": "VW-108",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/volkswagen_car_8.jpg"
-      },
-      {
-        "name": "Volkswagen Car 9",
-        "model": "VW-109",
-        "price": "₹9.5 lakh",
-        "image": "https://example.com/images/volkswagen_car_9.jpg"
-      },
-      {
-        "name": "Volkswagen Car 10",
-        "model": "VW-110",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/volkswagen_car_10.jpg"
-      },
-      {
-        "name": "Volkswagen Car 11",
-        "model": "VW-111",
-        "price": "₹10.5 lakh",
-        "image": "https://example.com/images/volkswagen_car_11.jpg"
-      },
-      {
-        "name": "Volkswagen Car 12",
-        "model": "VW-112",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/volkswagen_car_12.jpg"
-      }
-    ],
-    "mercedes": [
-      {
-        "name": "Mercedes Car 1",
-        "model": "MERCEDES-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/mercedes_car_1.jpg"
-      },
-      {
-        "name": "Mercedes Car 2",
-        "model": "MERCEDES-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/mercedes_car_2.jpg"
-      },
-      {
-        "name": "Mercedes Car 3",
-        "model": "MERCEDES-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/mercedes_car_3.jpg"
-      },
-      {
-        "name": "Mercedes Car 4",
-        "model": "MERCEDES-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/mercedes_car_4.jpg"
-      },
-      {
-        "name": "Mercedes Car 5",
-        "model": "MERCEDES-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/mercedes_car_5.jpg"
-      },
-      {
-        "name": "Mercedes Car 6",
-        "model": "MERCEDES-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/mercedes_car_6.jpg"
-      },
-      {
-        "name": "Mercedes Car 7",
-        "model": "MERCEDES-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/mercedes_car_7.jpg"
-      },
-      {
-        "name": "Mercedes Car 8",
-        "model": "MERCEDES-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/mercedes_car_8.jpg"
-      },
-      {
-        "name": "Mercedes Car 9",
-        "model": "MERCEDES-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/mercedes_car_9.jpg"
-      },
-      {
-        "name": "Mercedes Car 10",
-        "model": "MERCEDES-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/mercedes_car_10.jpg"
-      },
-      {
-        "name": "Mercedes Car 11",
-        "model": "MERCEDES-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/mercedes_car_11.jpg"
-      },
-      {
-        "name": "Mercedes Car 12",
-        "model": "MERCEDES-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/mercedes_car_12.jpg"
-      },
-      {
-        "name": "Mercedes Car 13",
-        "model": "MERCEDES-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/mercedes_car_13.jpg"
-      },
-      {
-        "name": "Mercedes Car 14",
-        "model": "MERCEDES-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/mercedes_car_14.jpg"
-      },
-      {
-        "name": "Mercedes Car 15",
-        "model": "MERCEDES-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/mercedes_car_15.jpg"
-      },
-      {
-        "name": "Mercedes Car 16",
-        "model": "MERCEDES-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/mercedes_car_16.jpg"
-      },
-      {
-        "name": "Mercedes Car 17",
-        "model": "MERCEDES-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/mercedes_car_17.jpg"
-      },
-      {
-        "name": "Mercedes Car 18",
-        "model": "MERCEDES-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/mercedes_car_18.jpg"
-      },
-      {
-        "name": "Mercedes Car 19",
-        "model": "MERCEDES-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/mercedes_car_19.jpg"
-      },
-      {
-        "name": "Mercedes Car 20",
-        "model": "MERCEDES-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/mercedes_car_20.jpg"
-      }
-    ]
+  {
+    "name": "Volkswagen Polo",
+    "model": "Polo",
+    "price": "Discontinued",
+    "fuel": "Petrol",
+    "type": "Hatchback",
+    "image": "https://source.unsplash.com/600x400/?volkswagen,polo,car"
+  },
+  {
+    "name": "Volkswagen Virtus",
+    "model": "Virtus",
+    "price": "₹11.56 - ₹19.40 lakh",
+    "fuel": "Petrol",
+    "type": "Sedan",
+    "image": "https://source.unsplash.com/600x400/?volkswagen,virtus,car"
+  },
+  {
+    "name": "Volkswagen Taigun",
+    "model": "Taigun",
+    "price": "₹11.70 - ₹19.74 lakh",
+    "fuel": "Petrol",
+    "type": "Compact SUV",
+    "image": "https://source.unsplash.com/600x400/?volkswagen,taigun,suv"
+  },
+  {
+    "name": "Volkswagen Tiguan",
+    "model": "Tiguan",
+    "price": "₹38.17 lakh",
+    "fuel": "Petrol",
+    "type": "Premium SUV",
+    "image": "https://source.unsplash.com/600x400/?volkswagen,tiguan,suv"
+  },
+  {
+    "name": "Volkswagen Tiguan R-Line",
+    "model": "Tiguan R-Line",
+    "price": "₹48.00 lakh (Expected)",
+    "fuel": "Petrol",
+    "type": "Performance SUV",
+    "image": "https://source.unsplash.com/600x400/?volkswagen,tiguan,r-line"
+  }
+]
+
   }
 }

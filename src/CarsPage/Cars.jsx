@@ -28,7 +28,7 @@ const Cars = () => {
     },
     {
       name: "Maruti Suzuki",
-      slug: "Maruti_Suzuki",
+      slug: "marutisuzuki",
       logo: "https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80",
     },
     {
