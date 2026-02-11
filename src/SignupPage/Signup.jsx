@@ -29,7 +29,7 @@ const Signup = () => {
     e.preventDefault();
 
     try {
-      await axios.post("http://localhost:3000/users", formData);
+      await axios.post("https://698c204a21a248a273608bc4.mockapi.io/users", formData);
       alert("Account created successfully 🎉");
       navigate("/login");
     } catch (err) {

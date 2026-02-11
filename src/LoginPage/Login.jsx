@@ -22,7 +22,7 @@ const Login = () => {
 
   const fetchUsers = async () => {
     try {
-      const res = await axios.get("http://localhost:3000/users");
+      const res = await axios.get("https://698c204a21a248a273608bc4.mockapi.io/users");
       setUsers(res.data);
     } catch (err) {
       console.log(err);

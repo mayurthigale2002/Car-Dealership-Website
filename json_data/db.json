@@ -60,667 +60,298 @@
   ],
   "brands": {
     "tata": [
-      {
-        "name": "Tata Car 1",
-        "model": "TATA-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/tata_car_1.jpg"
-      },
-      {
-        "name": "Tata Car 2",
-        "model": "TATA-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/tata_car_2.jpg"
-      },
-      {
-        "name": "Tata Car 3",
-        "model": "TATA-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/tata_car_3.jpg"
-      },
-      {
-        "name": "Tata Car 4",
-        "model": "TATA-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/tata_car_4.jpg"
-      },
-      {
-        "name": "Tata Car 5",
-        "model": "TATA-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/tata_car_5.jpg"
-      },
-      {
-        "name": "Tata Car 6",
-        "model": "TATA-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/tata_car_6.jpg"
-      },
-      {
-        "name": "Tata Car 7",
-        "model": "TATA-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/tata_car_7.jpg"
-      },
-      {
-        "name": "Tata Car 8",
-        "model": "TATA-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/tata_car_8.jpg"
-      },
-      {
-        "name": "Tata Car 9",
-        "model": "TATA-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/tata_car_9.jpg"
-      },
-      {
-        "name": "Tata Car 10",
-        "model": "TATA-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/tata_car_10.jpg"
-      },
-      {
-        "name": "Tata Car 11",
-        "model": "TATA-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/tata_car_11.jpg"
-      },
-      {
-        "name": "Tata Car 12",
-        "model": "TATA-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/tata_car_12.jpg"
-      },
-      {
-        "name": "Tata Car 13",
-        "model": "TATA-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/tata_car_13.jpg"
-      },
-      {
-        "name": "Tata Car 14",
-        "model": "TATA-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/tata_car_14.jpg"
-      },
-      {
-        "name": "Tata Car 15",
-        "model": "TATA-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/tata_car_15.jpg"
-      },
-      {
-        "name": "Tata Car 16",
-        "model": "TATA-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/tata_car_16.jpg"
-      },
-      {
-        "name": "Tata Car 17",
-        "model": "TATA-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/tata_car_17.jpg"
-      },
-      {
-        "name": "Tata Car 18",
-        "model": "TATA-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/tata_car_18.jpg"
-      },
-      {
-        "name": "Tata Car 19",
-        "model": "TATA-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/tata_car_19.jpg"
-      },
-      {
-        "name": "Tata Car 20",
-        "model": "TATA-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/tata_car_20.jpg"
-      }
+  {
+    "name": "Tata Nexon",
+    "model": "TATA-101",
+    "price": "₹6 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Punch",
+    "model": "TATA-102",
+    "price": "₹7 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Altroz",
+    "model": "TATA-103",
+    "price": "₹8 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Tiago",
+    "model": "TATA-104",
+    "price": "₹9 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40530/tiago-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Tigor",
+    "model": "TATA-105",
+    "price": "₹10 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/tigor-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Harrier",
+    "model": "TATA-106",
+    "price": "₹11 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/harrier-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Safari",
+    "model": "TATA-107",
+    "price": "₹12 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/safari-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Curvv",
+    "model": "TATA-108",
+    "price": "₹13 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/155645/curvv-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Nexon EV",
+    "model": "TATA-109",
+    "price": "₹14 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141873/nexon-ev-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Tiago EV",
+    "model": "TATA-110",
+    "price": "₹15 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124839/tiago-ev-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Tigor EV",
+    "model": "TATA-111",
+    "price": "₹16 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124841/tigor-ev-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Punch EV",
+    "model": "TATA-112",
+    "price": "₹17 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/160225/punch-ev-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Altroz Racer",
+    "model": "TATA-113",
+    "price": "₹18 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/164317/altroz-racer-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Harrier Facelift",
+    "model": "TATA-114",
+    "price": "₹19 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139135/harrier-facelift-exterior-right-front-three-quarter.jpeg"
+  },
+  {
+    "name": "Tata Safari Facelift",
+    "model": "TATA-115",
+    "price": "₹20 lakh",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139137/safari-facelift-exterior-right-front-three-quarter.jpeg"
+  }
     ],
     "mahindra": [
-      {
-        "name": "Mahindra Car 1",
-        "model": "MAHINDRA-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/mahindra_car_1.jpg"
-      },
-      {
-        "name": "Mahindra Car 2",
-        "model": "MAHINDRA-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/mahindra_car_2.jpg"
-      },
-      {
-        "name": "Mahindra Car 3",
-        "model": "MAHINDRA-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/mahindra_car_3.jpg"
-      },
-      {
-        "name": "Mahindra Car 4",
-        "model": "MAHINDRA-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/mahindra_car_4.jpg"
-      },
-      {
-        "name": "Mahindra Car 5",
-        "model": "MAHINDRA-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/mahindra_car_5.jpg"
-      },
-      {
-        "name": "Mahindra Car 6",
-        "model": "MAHINDRA-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/mahindra_car_6.jpg"
-      },
-      {
-        "name": "Mahindra Car 7",
-        "model": "MAHINDRA-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/mahindra_car_7.jpg"
-      },
-      {
-        "name": "Mahindra Car 8",
-        "model": "MAHINDRA-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/mahindra_car_8.jpg"
-      },
-      {
-        "name": "Mahindra Car 9",
-        "model": "MAHINDRA-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/mahindra_car_9.jpg"
-      },
-      {
-        "name": "Mahindra Car 10",
-        "model": "MAHINDRA-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/mahindra_car_10.jpg"
-      },
-      {
-        "name": "Mahindra Car 11",
-        "model": "MAHINDRA-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/mahindra_car_11.jpg"
-      },
-      {
-        "name": "Mahindra Car 12",
-        "model": "MAHINDRA-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/mahindra_car_12.jpg"
-      },
-      {
-        "name": "Mahindra Car 13",
-        "model": "MAHINDRA-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/mahindra_car_13.jpg"
-      },
-      {
-        "name": "Mahindra Car 14",
-        "model": "MAHINDRA-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/mahindra_car_14.jpg"
-      },
-      {
-        "name": "Mahindra Car 15",
-        "model": "MAHINDRA-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/mahindra_car_15.jpg"
-      },
-      {
-        "name": "Mahindra Car 16",
-        "model": "MAHINDRA-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/mahindra_car_16.jpg"
-      },
-      {
-        "name": "Mahindra Car 17",
-        "model": "MAHINDRA-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/mahindra_car_17.jpg"
-      },
-      {
-        "name": "Mahindra Car 18",
-        "model": "MAHINDRA-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/mahindra_car_18.jpg"
-      },
-      {
-        "name": "Mahindra Car 19",
-        "model": "MAHINDRA-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/mahindra_car_19.jpg"
-      },
-      {
-        "name": "Mahindra Car 20",
-        "model": "MAHINDRA-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/mahindra_car_20.jpg"
-      }
-    ],
-    "hyundai": [
-      {
-        "name": "Hyundai Car 1",
-        "model": "HYUNDAI-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/hyundai_car_1.jpg"
-      },
-      {
-        "name": "Hyundai Car 2",
-        "model": "HYUNDAI-102",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/hyundai_car_2.jpg"
-      },
-      {
-        "name": "Hyundai Car 3",
-        "model": "HYUNDAI-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/hyundai_car_3.jpg"
-      },
-      {
-        "name": "Hyundai Car 4",
-        "model": "HYUNDAI-104",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/hyundai_car_4.jpg"
-      },
-      {
-        "name": "Hyundai Car 5",
-        "model": "HYUNDAI-105",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/hyundai_car_5.jpg"
-      },
-      {
-        "name": "Hyundai Car 6",
-        "model": "HYUNDAI-106",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/hyundai_car_6.jpg"
-      },
-      {
-        "name": "Hyundai Car 7",
-        "model": "HYUNDAI-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/hyundai_car_7.jpg"
-      },
-      {
-        "name": "Hyundai Car 8",
-        "model": "HYUNDAI-108",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/hyundai_car_8.jpg"
-      },
-      {
-        "name": "Hyundai Car 9",
-        "model": "HYUNDAI-109",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/hyundai_car_9.jpg"
-      },
-      {
-        "name": "Hyundai Car 10",
-        "model": "HYUNDAI-110",
-        "price": "₹15 lakh",
-        "image": "https://example.com/images/hyundai_car_10.jpg"
-      },
-      {
-        "name": "Hyundai Car 11",
-        "model": "HYUNDAI-111",
-        "price": "₹16 lakh",
-        "image": "https://example.com/images/hyundai_car_11.jpg"
-      },
-      {
-        "name": "Hyundai Car 12",
-        "model": "HYUNDAI-112",
-        "price": "₹17 lakh",
-        "image": "https://example.com/images/hyundai_car_12.jpg"
-      },
-      {
-        "name": "Hyundai Car 13",
-        "model": "HYUNDAI-113",
-        "price": "₹18 lakh",
-        "image": "https://example.com/images/hyundai_car_13.jpg"
-      },
-      {
-        "name": "Hyundai Car 14",
-        "model": "HYUNDAI-114",
-        "price": "₹19 lakh",
-        "image": "https://example.com/images/hyundai_car_14.jpg"
-      },
-      {
-        "name": "Hyundai Car 15",
-        "model": "HYUNDAI-115",
-        "price": "₹20 lakh",
-        "image": "https://example.com/images/hyundai_car_15.jpg"
-      },
-      {
-        "name": "Hyundai Car 16",
-        "model": "HYUNDAI-116",
-        "price": "₹21 lakh",
-        "image": "https://example.com/images/hyundai_car_16.jpg"
-      },
-      {
-        "name": "Hyundai Car 17",
-        "model": "HYUNDAI-117",
-        "price": "₹22 lakh",
-        "image": "https://example.com/images/hyundai_car_17.jpg"
-      },
-      {
-        "name": "Hyundai Car 18",
-        "model": "HYUNDAI-118",
-        "price": "₹23 lakh",
-        "image": "https://example.com/images/hyundai_car_18.jpg"
-      },
-      {
-        "name": "Hyundai Car 19",
-        "model": "HYUNDAI-119",
-        "price": "₹24 lakh",
-        "image": "https://example.com/images/hyundai_car_19.jpg"
-      },
-      {
-        "name": "Hyundai Car 20",
-        "model": "HYUNDAI-120",
-        "price": "₹25 lakh",
-        "image": "https://example.com/images/hyundai_car_20.jpg"
-      }
-    ],
+  {
+    "name": "Mahindra Thar",
+    "model": "MAHINDRA-101",
+    "price": "₹11 lakh",
+    "image": "https://source.unsplash.com/800x500/?mahindra,thar"
+  },
+  {
+    "name": "Mahindra Scorpio Classic",
+    "model": "MAHINDRA-102",
+    "price": "₹13 lakh",
+    "image": "https://source.unsplash.com/800x500/?mahindra,scorpio"
+  },
+  {
+    "name": "Mahindra Scorpio-N",
+    "model": "MAHINDRA-103",
+    "price": "₹15 lakh",
+    "image": "https://source.unsplash.com/800x500/?scorpio-n,suv"
+  },
+  {
+    "name": "Mahindra XUV700",
+    "model": "MAHINDRA-104",
+    "price": "₹14 lakh",
+    "image": "https://source.unsplash.com/800x500/?mahindra,xuv700"
+  },
+  {
+    "name": "Mahindra XUV300",
+    "model": "MAHINDRA-105",
+    "price": "₹8 lakh",
+    "image": "https://source.unsplash.com/800x500/?compact-suv,car"
+  },
+  {
+    "name": "Mahindra Bolero",
+    "model": "MAHINDRA-106",
+    "price": "₹9 lakh",
+    "image": "https://source.unsplash.com/800x500/?mahindra,bolero"
+  },
+  {
+    "name": "Mahindra Bolero Neo",
+    "model": "MAHINDRA-107",
+    "price": "₹10 lakh",
+    "image": "https://source.unsplash.com/800x500/?offroad,suv"
+  },
+  {
+    "name": "Mahindra XUV400 EV",
+    "model": "MAHINDRA-108",
+    "price": "₹15 lakh",
+    "image": "https://source.unsplash.com/800x500/?electric,suv"
+  },
+  {
+    "name": "Mahindra Marazzo",
+    "model": "MAHINDRA-109",
+    "price": "₹14 lakh",
+    "image": "https://source.unsplash.com/800x500/?mpv,car"
+  },
+  {
+    "name": "Mahindra Alturas G4",
+    "model": "MAHINDRA-110",
+    "price": "₹28 lakh",
+    "image": "https://source.unsplash.com/800x500/?luxury,suv"
+  },
+  {
+    "name": "Mahindra KUV100",
+    "model": "MAHINDRA-111",
+    "price": "₹6 lakh",
+    "image": "https://source.unsplash.com/800x500/?small-car,india"
+  },
+  {
+    "name": "Mahindra eKUV100",
+    "model": "MAHINDRA-112",
+    "price": "₹8 lakh",
+    "image": "https://source.unsplash.com/800x500/?electric,car"
+  },
+  {
+    "name": "Mahindra Thar 5-Door",
+    "model": "MAHINDRA-113",
+    "price": "₹16 lakh",
+    "image": "https://source.unsplash.com/800x500/?offroad,jeep"
+  },
+  {
+    "name": "Mahindra XUV.e8",
+    "model": "MAHINDRA-114",
+    "price": "₹30 lakh",
+    "image": "https://source.unsplash.com/800x500/?futuristic,suv"
+  },
+  {
+    "name": "Mahindra BE.05",
+    "model": "MAHINDRA-115",
+    "price": "₹25 lakh",
+    "image": "https://source.unsplash.com/800x500/?concept-car,ev"
+  }
+],
+"hyundai": [
+  { "name": "Hyundai Creta", "model": "HYUNDAI-101", "price": "₹11 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,creta" },
+  { "name": "Hyundai Venue", "model": "HYUNDAI-102", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,venue" },
+  { "name": "Hyundai i20", "model": "HYUNDAI-103", "price": "₹8 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,i20" },
+  { "name": "Hyundai Verna", "model": "HYUNDAI-104", "price": "₹11 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,verna" },
+  { "name": "Hyundai Aura", "model": "HYUNDAI-105", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,aura" },
+  { "name": "Hyundai Exter", "model": "HYUNDAI-106", "price": "₹6 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,exter" },
+  { "name": "Hyundai Alcazar", "model": "HYUNDAI-107", "price": "₹16 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,alcazar" },
+  { "name": "Hyundai Tucson", "model": "HYUNDAI-108", "price": "₹29 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,tucson" },
+  { "name": "Hyundai Kona EV", "model": "HYUNDAI-109", "price": "₹23 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,kona,ev" },
+  { "name": "Hyundai Ioniq 5", "model": "HYUNDAI-110", "price": "₹45 lakh", "image": "https://source.unsplash.com/800x500/?hyundai,ioniq" }
+]
+,
     "honda": [
-      {
-        "name": "Honda Car 1",
-        "model": "HON-101",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/honda_car_1.jpg"
-      },
-      {
-        "name": "Honda Car 2",
-        "model": "HON-102",
-        "price": "₹7.5 lakh",
-        "image": "https://example.com/images/honda_car_2.jpg"
-      },
-      {
-        "name": "Honda Car 3",
-        "model": "HON-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/honda_car_3.jpg"
-      },
-      {
-        "name": "Honda Car 4",
-        "model": "HON-104",
-        "price": "₹8.5 lakh",
-        "image": "https://example.com/images/honda_car_4.jpg"
-      },
-      {
-        "name": "Honda Car 5",
-        "model": "HON-105",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/honda_car_5.jpg"
-      },
-      {
-        "name": "Honda Car 6",
-        "model": "HON-106",
-        "price": "₹9.5 lakh",
-        "image": "https://example.com/images/honda_car_6.jpg"
-      },
-      {
-        "name": "Honda Car 7",
-        "model": "HON-107",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/honda_car_7.jpg"
-      },
-      {
-        "name": "Honda Car 8",
-        "model": "HON-108",
-        "price": "₹10.5 lakh",
-        "image": "https://example.com/images/honda_car_8.jpg"
-      },
-      {
-        "name": "Honda Car 9",
-        "model": "HON-109",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/honda_car_9.jpg"
-      },
-      {
-        "name": "Honda Car 10",
-        "model": "HON-110",
-        "price": "₹11.5 lakh",
-        "image": "https://example.com/images/honda_car_10.jpg"
-      },
-      {
-        "name": "Honda Car 11",
-        "model": "HON-111",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/honda_car_11.jpg"
-      },
-      {
-        "name": "Honda Car 12",
-        "model": "HON-112",
-        "price": "₹12.5 lakh",
-        "image": "https://example.com/images/honda_car_12.jpg"
-      }
-    ],
+  { "name": "Honda City", "model": "HON-101", "price": "₹12 lakh", "image": "https://source.unsplash.com/800x500/?honda,city,car" },
+  { "name": "Honda Amaze", "model": "HON-102", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?honda,amaze" },
+  { "name": "Honda Elevate", "model": "HON-103", "price": "₹11 lakh", "image": "https://source.unsplash.com/800x500/?honda,elevate,suv" },
+  { "name": "Honda WR-V", "model": "HON-104", "price": "₹9 lakh", "image": "https://source.unsplash.com/800x500/?honda,wrv" },
+  { "name": "Honda Jazz", "model": "HON-105", "price": "₹8 lakh", "image": "https://source.unsplash.com/800x500/?honda,jazz" },
+  { "name": "Honda Civic", "model": "HON-106", "price": "₹18 lakh", "image": "https://source.unsplash.com/800x500/?honda,civic" },
+  { "name": "Honda CR-V", "model": "HON-107", "price": "₹30 lakh", "image": "https://source.unsplash.com/800x500/?honda,crv" },
+  { "name": "Honda Accord", "model": "HON-108", "price": "₹35 lakh", "image": "https://source.unsplash.com/800x500/?honda,accord" }
+]
+,
     "renault": [
-      {
-        "name": "Renault Car 1",
-        "model": "REN-101",
-        "price": "₹6 lakh",
-        "image": "https://example.com/images/renault_car_1.jpg"
-      },
-      {
-        "name": "Renault Car 2",
-        "model": "REN-102",
-        "price": "₹6.5 lakh",
-        "image": "https://example.com/images/renault_car_2.jpg"
-      },
-      {
-        "name": "Renault Car 3",
-        "model": "REN-103",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/renault_car_3.jpg"
-      },
-      {
-        "name": "Renault Car 4",
-        "model": "REN-104",
-        "price": "₹7.5 lakh",
-        "image": "https://example.com/images/renault_car_4.jpg"
-      },
-      {
-        "name": "Renault Car 5",
-        "model": "REN-105",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/renault_car_5.jpg"
-      },
-      {
-        "name": "Renault Car 6",
-        "model": "REN-106",
-        "price": "₹8.5 lakh",
-        "image": "https://example.com/images/renault_car_6.jpg"
-      },
-      {
-        "name": "Renault Car 7",
-        "model": "REN-107",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/renault_car_7.jpg"
-      },
-      {
-        "name": "Renault Car 8",
-        "model": "REN-108",
-        "price": "₹9.5 lakh",
-        "image": "https://example.com/images/renault_car_8.jpg"
-      },
-      {
-        "name": "Renault Car 9",
-        "model": "REN-109",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/renault_car_9.jpg"
-      },
-      {
-        "name": "Renault Car 10",
-        "model": "REN-110",
-        "price": "₹10.5 lakh",
-        "image": "https://example.com/images/renault_car_10.jpg"
-      },
-      {
-        "name": "Renault Car 11",
-        "model": "REN-111",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/renault_car_11.jpg"
-      },
-      {
-        "name": "Renault Car 12",
-        "model": "REN-112",
-        "price": "₹11.5 lakh",
-        "image": "https://example.com/images/renault_car_12.jpg"
-      }
-    ],
-    "nissan": [
-      {
-        "name": "Nissan Car 1",
-        "model": "NIS-101",
-        "price": "₹7 lakh",
-        "image": "https://example.com/images/nissan_car_1.jpg"
-      },
-      {
-        "name": "Nissan Car 2",
-        "model": "NIS-102",
-        "price": "₹7.5 lakh",
-        "image": "https://example.com/images/nissan_car_2.jpg"
-      },
-      {
-        "name": "Nissan Car 3",
-        "model": "NIS-103",
-        "price": "₹8 lakh",
-        "image": "https://example.com/images/nissan_car_3.jpg"
-      },
-      {
-        "name": "Nissan Car 4",
-        "model": "NIS-104",
-        "price": "₹8.5 lakh",
-        "image": "https://example.com/images/nissan_car_4.jpg"
-      },
-      {
-        "name": "Nissan Car 5",
-        "model": "NIS-105",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/nissan_car_5.jpg"
-      },
-      {
-        "name": "Nissan Car 6",
-        "model": "NIS-106",
-        "price": "₹9.5 lakh",
-        "image": "https://example.com/images/nissan_car_6.jpg"
-      },
-      {
-        "name": "Nissan Car 7",
-        "model": "NIS-107",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/nissan_car_7.jpg"
-      },
-      {
-        "name": "Nissan Car 8",
-        "model": "NIS-108",
-        "price": "₹10.5 lakh",
-        "image": "https://example.com/images/nissan_car_8.jpg"
-      },
-      {
-        "name": "Nissan Car 9",
-        "model": "NIS-109",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/nissan_car_9.jpg"
-      },
-      {
-        "name": "Nissan Car 10",
-        "model": "NIS-110",
-        "price": "₹11.5 lakh",
-        "image": "https://example.com/images/nissan_car_10.jpg"
-      },
-      {
-        "name": "Nissan Car 11",
-        "model": "NIS-111",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/nissan_car_11.jpg"
-      },
-      {
-        "name": "Nissan Car 12",
-        "model": "NIS-112",
-        "price": "₹12.5 lakh",
-        "image": "https://example.com/images/nissan_car_12.jpg"
-      }
-    ],
-    "mg": [
-      {
-        "name": "MG Car 1",
-        "model": "MG-101",
-        "price": "₹9 lakh",
-        "image": "https://example.com/images/mg_car_1.jpg"
-      },
-      {
-        "name": "MG Car 2",
-        "model": "MG-102",
-        "price": "₹9.5 lakh",
-        "image": "https://example.com/images/mg_car_2.jpg"
-      },
-      {
-        "name": "MG Car 3",
-        "model": "MG-103",
-        "price": "₹10 lakh",
-        "image": "https://example.com/images/mg_car_3.jpg"
-      },
-      {
-        "name": "MG Car 4",
-        "model": "MG-104",
-        "price": "₹10.5 lakh",
-        "image": "https://example.com/images/mg_car_4.jpg"
-      },
-      {
-        "name": "MG Car 5",
-        "model": "MG-105",
-        "price": "₹11 lakh",
-        "image": "https://example.com/images/mg_car_5.jpg"
-      },
-      {
-        "name": "MG Car 6",
-        "model": "MG-106",
-        "price": "₹11.5 lakh",
-        "image": "https://example.com/images/mg_car_6.jpg"
-      },
-      {
-        "name": "MG Car 7",
-        "model": "MG-107",
-        "price": "₹12 lakh",
-        "image": "https://example.com/images/mg_car_7.jpg"
-      },
-      {
-        "name": "MG Car 8",
-        "model": "MG-108",
-        "price": "₹12.5 lakh",
-        "image": "https://example.com/images/mg_car_8.jpg"
-      },
-      {
-        "name": "MG Car 9",
-        "model": "MG-109",
-        "price": "₹13 lakh",
-        "image": "https://example.com/images/mg_car_9.jpg"
-      },
-      {
-        "name": "MG Car 10",
-        "model": "MG-110",
-        "price": "₹13.5 lakh",
-        "image": "https://example.com/images/mg_car_10.jpg"
-      },
-      {
-        "name": "MG Car 11",
-        "model": "MG-111",
-        "price": "₹14 lakh",
-        "image": "https://example.com/images/mg_car_11.jpg"
-      },
-      {
-        "name": "MG Car 12",
-        "model": "MG-112",
-        "price": "₹14.5 lakh",
-        "image": "https://example.com/images/mg_car_12.jpg"
-      }
-    ],
+  { "name": "Renault Kwid", "model": "REN-101", "price": "₹5.5 lakh", "image": "https://source.unsplash.com/800x500/?renault,kwid" },
+  { "name": "Renault Triber", "model": "REN-102", "price": "₹6.5 lakh", "image": "https://source.unsplash.com/800x500/?renault,triber" },
+  { "name": "Renault Kiger", "model": "REN-103", "price": "₹7 lakh", "image": "https://source.unsplash.com/800x500/?renault,kiger" },
+  { "name": "Renault Duster", "model": "REN-104", "price": "₹10 lakh", "image": "https://source.unsplash.com/800x500/?renault,duster,suv" },
+  { "name": "Renault Captur", "model": "REN-105", "price": "₹12 lakh", "image": "https://source.unsplash.com/800x500/?renault,captur" },
+  { "name": "Renault Arkana", "model": "REN-106", "price": "₹20 lakh", "image": "https://source.unsplash.com/800x500/?renault,arkana" }
+],
+  "nissan": [
+    {
+      "name": "Nissan Magnite",
+      "model": "Magnite",
+      "price": "₹6.5 lakh",
+      "image": "https://source.unsplash.com/featured/?nissan,magnite,car"
+    },
+    {
+      "name": "Nissan Kicks",
+      "model": "Kicks",
+      "price": "₹9.5 lakh",
+      "image": "https://source.unsplash.com/featured/?nissan,kicks,car"
+    },
+    {
+      "name": "Nissan Sunny",
+      "model": "Sunny",
+      "price": "₹8 lakh",
+      "image": "https://source.unsplash.com/featured/?nissan,sunny,car"
+    },
+    {
+      "name": "Nissan Micra",
+      "model": "Micra",
+      "price": "₹6 lakh",
+      "image": "https://source.unsplash.com/featured/?nissan,micra,car"
+    },
+    {
+      "name": "Nissan X-Trail",
+      "model": "X-Trail",
+      "price": "₹40 lakh",
+      "image": "https://source.unsplash.com/featured/?nissan,x-trail,car"
+    },
+    {
+      "name": "Nissan GT-R",
+      "model": "GT-R",
+      "price": "₹2.1 crore",
+      "image": "https://source.unsplash.com/featured/?nissan,gtr,car"
+    }
+  ],
+
+  "mg": [
+    {
+      "name": "MG Hector",
+      "model": "Hector",
+      "price": "₹15 lakh",
+      "image": "https://source.unsplash.com/featured/?mg,hector,car"
+    },
+    {
+      "name": "MG Hector Plus",
+      "model": "Hector Plus",
+      "price": "₹17 lakh",
+      "image": "https://source.unsplash.com/featured/?mg,hector-plus,car"
+    },
+    {
+      "name": "MG Astor",
+      "model": "Astor",
+      "price": "₹10 lakh",
+      "image": "https://source.unsplash.com/featured/?mg,astor,car"
+    },
+    {
+      "name": "MG ZS EV",
+      "model": "ZS EV",
+      "price": "₹23 lakh",
+      "image": "https://source.unsplash.com/featured/?mg,zs-ev,car"
+    },
+    {
+      "name": "MG Gloster",
+      "model": "Gloster",
+      "price": "₹32 lakh",
+      "image": "https://source.unsplash.com/featured/?mg,gloster,car"
+    },
+    {
+      "name": "MG Comet EV",
+      "model": "Comet EV",
+      "price": "₹8 lakh",
+      "image": "https://source.unsplash.com/featured/?mg,comet-ev,car"
+    }
+  ],
     "jeep": [
       {
         "name": "Jeep Car 1",
