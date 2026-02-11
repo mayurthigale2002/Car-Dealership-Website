@@ -50,6 +50,13 @@ import RoadsideAssistance from "./FooterPage/RoadsideAssistance";
 import UserProfile from "./UserProfile/UserProfile";
 import Booking from "./UserProfile/Booking";
 
+// Admin Pages
+import AdminPanel from "./AdminProfile/AdminPanel";
+import AdminHome from "./AdminProfile/AdminHome";
+import AdminUsers from "./AdminProfile/AdminUsers";
+import AdminCars from "./AdminProfile/AdminCars";
+import AdminBookings from "./AdminProfile/AdminBookings";
+
 const App = () => {
   const isAuth = localStorage.getItem("isAuth");
 
@@ -137,6 +144,13 @@ const App = () => {
           path="/profile"
           element={isAuth ? <UserProfile /> : <Navigate to="/login" />}
         />
+
+        {/* Admin Pages */}
+        <Route path="/adminpanel" element={<AdminPanel />} />
+        <Route path="/adminhome" element={<AdminHome />} />
+        <Route path="/adminusers" element={<AdminUsers />} />
+        <Route path="/admincars" element={<AdminCars />} />
+        <Route path="/adminbookings" element={<AdminBookings />} />
       </Routes>
 
       <Footer />

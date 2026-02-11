@@ -16,6 +16,13 @@ const Login = () => {
     password: "",
   });
 
+  // Hardcoded admin credentials
+  const adminCredentials = {
+    email: "admin@gmail.com",
+    password: "2098",
+    name: "Admin",
+  };
+
   useEffect(() => {
     AOS.init({ duration: 1000, once: true });
     fetchUsers();
@@ -23,7 +30,9 @@ const Login = () => {
 
   const fetchUsers = async () => {
     try {
-      const res = await axios.get("https://698c204a21a248a273608bc4.mockapi.io/users");
+      const res = await axios.get(
+        "https://698c204a21a248a273608bc4.mockapi.io/users",
+      );
       setUsers(res.data);
     } catch (err) {
       console.log(err);
@@ -38,14 +47,25 @@ const Login = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
+    if (
+      formData.email === adminCredentials.email &&
+      formData.password === adminCredentials.password
+    ) {
+      localStorage.setItem("isAuth", "true");
+      localStorage.setItem("userType", "admin");
+      localStorage.setItem("userName", adminCredentials.name);
+      toast.success("Welcome Admin!");
+      navigate("/adminpanel");
+      return;
+    }
+
     const user = users.find(
-      (u) =>
-        u.email === formData.email &&
-        u.password === formData.password
+      (u) => u.email === formData.email && u.password === formData.password,
     );
 
     if (user) {
       localStorage.setItem("isAuth", "true");
+      localStorage.setItem("userType", "user");
       localStorage.setItem("userId", user.id);
       localStorage.setItem("userName", user.name);
       toast.success("Logged in successfully 👋");
@@ -58,7 +78,6 @@ const Login = () => {
   return (
     <div className="min-h-screen mt-10 flex items-center justify-center bg-black px-4 relative overflow-hidden">
 
-      {/* Glow */}
       <div className="absolute w-96 h-96 bg-black blur-3xl -top-20 -left-20" />
       <div className="absolute w-96 h-96 bg-black blur-3xl -bottom-20 -right-20" />
 
@@ -70,10 +89,8 @@ const Login = () => {
       >
         <div className="grid grid-cols-1 md:grid-cols-2">
 
-          {/* Left Image Component */}
           <AuthImage />
 
-          {/* Right Form */}
           <div
             className="p-8 md:p-12 bg-white rounded-3xl md:rounded-l-none"
             data-aos="fade-left"
@@ -87,7 +104,6 @@ const Login = () => {
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-6">
-
               <div className="relative">
                 <FaEnvelope className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" />
                 <input
@@ -133,10 +149,8 @@ const Login = () => {
                   Create one
                 </NavLink>
               </p>
-
             </form>
           </div>
-
         </div>
       </div>
     </div>
