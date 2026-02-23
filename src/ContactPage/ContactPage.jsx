@@ -5,17 +5,23 @@ import ContactMap from "./ContactMap";
 
 const ContactPage = () => {
   return (
-    <div className="min-h-screen bg-gray-900 text-white mt-10">
+    <div className="w-full min-h-screen bg-gray-900 text-white overflow-x-hidden">
+      
+      {/* Header */}
       <ContactHeader />
 
-      <div className="container  bg-black mx-auto px-4 py-12 space-y-12">
-        <div className=" grid md:grid-cols-2 gap-10">
+      {/* Content Wrapper */}
+      <div className="max-w-7xl mx-auto w-full px-4 sm:px-6 py-12 space-y-12 bg-black">
+
+        {/* Info + Form */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
           <ContactInfo />
           <ContactForm />
         </div>
 
-        {/* Google Map */}
+        {/* Map */}
         <ContactMap />
+
       </div>
     </div>
   );

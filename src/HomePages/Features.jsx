@@ -1,21 +1,18 @@
 const Features = () => {
   return (
-    <section className="py-20 bg-black text-white relative overflow-hidden">
+    <section className="w-full py-20 bg-black text-white relative overflow-hidden">
+      
       {/* Soft background glow */}
-      <div className="absolute inset-0 bg-linear-to-br from-red-600/10 via-transparent to-transparent"></div>
+      <div className="absolute inset-0 bg-gradient-to-br from-red-600/10 via-transparent to-transparent pointer-events-none"></div>
 
-      <div className="relative container mx-auto px-4 sm:px-6">
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 w-full">
 
         {/* Section Heading */}
-        <div
-          className="text-center mb-16"
-          data-aos="fade-up"
-          data-aos-duration="1000"
-          data-aos-once="true"
-        >
+        <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-extrabold mb-4">
             Why Choose Our Cars
           </h2>
+
           <p className="text-gray-400 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
             Our vehicles combine cutting-edge engineering, luxury comfort, and
             advanced safety to deliver an exceptional driving experience.
@@ -23,9 +20,8 @@ const Features = () => {
         </div>
 
         {/* Features Grid */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
 
-          {/* Feature Card */}
           {[
             {
               title: "High Performance",
@@ -66,17 +62,15 @@ const Features = () => {
           ].map((feature, index) => (
             <div
               key={index}
-              data-aos="zoom-in"
-              data-aos-delay={index * 100}
-              data-aos-duration="900"
-              data-aos-once="true"
               className="
-                bg-gray-900 border border-gray-800
-                p-7 rounded-2xl shadow-red-200/20
-                shadow-lg hover:shadow-red-500/10
+                bg-gray-900
+                border border-gray-800
+                p-7
+                rounded-2xl
+                shadow-lg
+                hover:shadow-red-500/10
                 hover:-translate-y-2
                 transition-all duration-300
-                group 
               "
             >
               <h3 className="text-xl font-semibold mb-3">
@@ -87,7 +81,7 @@ const Features = () => {
                 {feature.desc}
               </p>
 
-              <span className="inline-block text-xs font-semibold tracking-wide text-red-500 bg-red-300/10 px-3 py-1 rounded-full">
+              <span className="inline-block text-xs font-semibold tracking-wide text-red-500 bg-red-500/10 px-3 py-1 rounded-full">
                 {feature.tag}
               </span>
             </div>

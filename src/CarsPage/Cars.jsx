@@ -122,7 +122,6 @@ const Cars = () => {
         <span className="bg-linear-to-r from-red-500 to-orange-400 bg-clip-text text-transparent">
           Explore Car Brands
         </span>
-        
       </h1>
       <div
         className="flex justify-center mb-4"
@@ -135,8 +134,6 @@ const Cars = () => {
           choose the right vehicle effortlessly.
         </p>
       </div>
-
-   
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 px-6">
         {brands.map((brand, index) => (
@@ -165,8 +162,9 @@ const Cars = () => {
 
             {/* Explore Button */}
             <button
-              onClick={() => navigate(`/cars/${brand.name.toLowerCase()}`)}
-              className="mt-auto bg-black/30 border border-white/20 px-5 py-2 rounded-full"
+              type="button"
+              onClick={() => navigate(`/cars/${brand.slug}`)}
+              className="mt-auto bg-black/30 border border-white/20 px-5 py-2 rounded-full hover:bg-red-600 transition"
             >
               Explore →
             </button>

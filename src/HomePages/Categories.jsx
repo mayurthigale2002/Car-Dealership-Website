@@ -1,4 +1,7 @@
 import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const categories = [
   {
@@ -48,7 +51,7 @@ const categories = [
     path: "/cars/convertible",
   },
   {
-    name: " Tesla Models",
+    name: "Tesla Models",
     image: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2",
     path: "/cars/pickup",
   },
@@ -57,12 +60,20 @@ const categories = [
 const Categories = () => {
   const navigate = useNavigate();
 
+  useEffect(() => {
+    AOS.init({
+      duration: 1000,
+      once: true,
+      easing: "ease-in-out",
+    });
+  }, []);
+
   return (
-    <section className="py-16 bg-black text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6">
+    <section className="w-full py-16 bg-black text-white overflow-hidden">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 w-full">
 
         {/* Heading */}
-        <div className="text-center mb-10" data-aos="fade-up">
+        <div className="text-center mb-12" data-aos="fade-up">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3">
             Explore Car Categories
           </h2>
@@ -71,40 +82,39 @@ const Categories = () => {
           </p>
         </div>
 
-        {/* Grid (NO SCROLL) */}
-        <div className="
-          grid grid-cols-2
-          sm:grid-cols-3
-          lg:grid-cols-5
-          gap-4 sm:gap-6
-        ">
+        {/* Grid */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-5">
+
           {categories.map((cat, index) => (
             <div
               key={index}
-              // onClick={() => navigate(cat.path)}
+              onClick={() => navigate(cat.path)}
               data-aos="zoom-in"
-              data-aos-delay={index * 70}
+              data-aos-delay={index * 100}
               className="
-                cursor-pointer
-                group
                 relative
                 rounded-2xl
                 overflow-hidden
                 shadow-xl
-                h-48 sm:h-60 lg:h-64
-                active:scale-95
-                transition-transform
+                cursor-pointer
+                h-44 sm:h-56 lg:h-60
+                transform
+                transition
+                duration-300
+                hover:scale-105
               "
             >
               {/* Image */}
               <img
                 src={cat.image}
                 alt={cat.name}
-                className="w-full h-full object-cover group-hover:scale-110 transition duration-500"
+                className="w-full h-full object-cover"
               />
 
-              <div className="absolute inset-0 bg-linear-to-t from-black via-black/40 to-transparent"></div>
+              {/* Overlay */}
+              <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent"></div>
 
+              {/* Title */}
               <div className="absolute bottom-4 left-4">
                 <h3 className="text-base sm:text-lg font-semibold">
                   {cat.name}
@@ -112,8 +122,8 @@ const Categories = () => {
               </div>
             </div>
           ))}
-        </div>
 
+        </div>
       </div>
     </section>
   );

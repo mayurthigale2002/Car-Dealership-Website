@@ -3,7 +3,14 @@ import React from "react";
 const ContactMap = () => {
   return (
     <div
-      className="w-full h-112.5 md:h-105 rounded-xl overflow-hidden shadow-lg"
+      className="
+        w-full
+        h-[350px]
+        md:h-[450px]
+        rounded-2xl
+        overflow-hidden
+        shadow-xl
+      "
       data-aos="fade-up"
       data-aos-duration="1000"
       data-aos-easing="ease-in-out"
@@ -12,11 +19,9 @@ const ContactMap = () => {
       <iframe
         title="Google Map"
         src="https://www.google.com/maps?q=Deccan,Maharashtra&output=embed"
-        width="100%"
-        height="100%"
+        className="w-full h-full border-0"
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        className="border-0"
       ></iframe>
     </div>
   );
